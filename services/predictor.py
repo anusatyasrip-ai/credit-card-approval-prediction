@@ -3,7 +3,7 @@ import joblib
 import pandas as pd
 import numpy as np
 import config
-from train import apply_feature_engineering
+from services.feature_engineering import apply_feature_engineering
 
 class CreditPredictor:
     def __init__(self):
@@ -13,10 +13,7 @@ class CreditPredictor:
         self._load_artifacts()
 
     def _load_artifacts(self):
-        if not config.BEST_MODEL_PATH.exists() or not config.PREPROCESSOR_PATH.exists():
-            print("Model artifacts not found. Automatically running training pipeline...")
-            from train import train_and_evaluate_models
-            train_and_evaluate_models()
+       
 
         self.model = joblib.load(config.BEST_MODEL_PATH)
         self.preprocessor = joblib.load(config.PREPROCESSOR_PATH)
