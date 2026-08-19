@@ -53,6 +53,3 @@ RAW_INPUT_COLUMNS = [
 TARGET_COLUMN = "approved"
 
 # Ensure directories exist
-DATA_DIR.mkdir(parents=True, exist_ok=True)
-MODELS_DIR.mkdir(parents=True, exist_ok=True)
-VISUALIZATIONS_DIR.mkdir(parents=True, exist_ok=True)
