@@ -1,0 +1,97 @@
+{% extends 'base.html' %}
+
+{% block title %}Result - Credit Card Approval System{% endblock %}
+
+{% block content %}
+<div class="container py-5">
+    <div class="row justify-content-center">
+        <div class="col-lg-7">
+            
+            <!-- Result Card -->
+            <div class="card-clean p-4 p-md-5 mb-4 text-center {% if result.prediction == 1 %}result-approved-card{% else %}result-rejected-card{% endif %}">
+                
+                <!-- Status Icon & Title -->
+                <div class="mb-3">
+                    {% if result.prediction == 1 %}
+                        <div class="icon-box icon-box-success mx-auto mb-3" style="width: 64px; height: 64px; font-size: 2rem;">
+                            <i class="fa-solid fa-circle-check"></i>
+                        </div>
+                        <h2 class="fw-bold text-success mb-1">Application Approved</h2>
+                        <p class="text-muted small mb-0">Applicant meets the credit eligibility criteria.</p>
+                    {% else %}
+                        <div class="icon-box icon-box-danger mx-auto mb-3" style="width: 64px; height: 64px; font-size: 2rem;">
+                            <i class="fa-solid fa-circle-xmark"></i>
+                        </div>
+                        <h2 class="fw-bold text-danger mb-1">Application Rejected</h2>
+                        <p class="text-muted small mb-0">Applicant does not currently meet credit risk thresholds.</p>
+                    {% endif %}
+                </div>
+
+                <!-- Probability Bar -->
+                <div class="card bg-white border-0 shadow-sm rounded-3 p-3 my-4 mx-auto" style="max-width: 400px;">
+                    <div class="d-flex justify-content-between align-items-center mb-2">
+                        <span class="text-muted small fw-semibold">Approval Probability</span>
+                        <span class="fw-bold fs-5 {% if result.prediction == 1 %}text-success{% else %}text-danger{% endif %}">
+                            {{ result.approval_percentage }}
+                        </span>
+                    </div>
+                    <div class="progress" style="height: 8px; border-radius: 4px;">
+                        <div class="progress-bar {% if result.prediction == 1 %}bg-success{% else %}bg-danger{% endif %}" 
+                             role="progressbar" 
+                             style="width: {{ result.approval_probability * 100 }}%;">
+                        </div>
+                    </div>
+                    <small class="text-muted mt-2 d-block text-start" style="font-size: 0.75rem;">
+                        Evaluated by: <span class="fw-medium text-dark">{{ result.model }}</span>
+                    </small>
+                </div>
+
+                <!-- Applicant Summary Grid -->
+                <div class="text-start bg-white border rounded-3 p-3 mb-4">
+                    <h6 class="fw-bold text-dark mb-3 pb-2 border-bottom">Applicant Summary</h6>
+                    <div class="row g-2 small text-muted">
+                        <div class="col-6">
+                            <span class="d-block text-secondary" style="font-size: 0.75rem;">PROFILE</span>
+                            <strong class="text-dark">{{ input_data.gender }}, {{ input_data.education_level }}</strong>
+                        </div>
+                        <div class="col-6">
+                            <span class="d-block text-secondary" style="font-size: 0.75rem;">EMPLOYMENT</span>
+                            <strong class="text-dark">{{ input_data.employment_status }} ({{ input_data.employment_years }} yrs)</strong>
+                        </div>
+                        <div class="col-6 mt-2">
+                            <span class="d-block text-secondary" style="font-size: 0.75rem;">ANNUAL INCOME</span>
+                            <strong class="text-dark">${{ "{:,.0f}".format(input_data.annual_income|float) }}</strong>
+                        </div>
+                        <div class="col-6 mt-2">
+                            <span class="d-block text-secondary" style="font-size: 0.75rem;">LOAN BALANCE</span>
+                            <strong class="text-dark">${{ "{:,.0f}".format(input_data.existing_loan_balance|float) }}</strong>
+                        </div>
+                        <div class="col-6 mt-2">
+                            <span class="d-block text-secondary" style="font-size: 0.75rem;">CREDIT HISTORY</span>
+                            <strong class="text-dark">{{ input_data.credit_history_years }} Years ({{ input_data.credit_inquiries }} inq)</strong>
+                        </div>
+                        <div class="col-6 mt-2">
+                            <span class="d-block text-secondary" style="font-size: 0.75rem;">PAYMENT STATUS</span>
+                            <strong class="{% if input_data.payment_status == 'No Past Due' %}text-success{% else %}text-danger{% endif %}">
+                                {{ input_data.payment_status }}
+                            </strong>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Action Buttons -->
+                <div class="d-flex flex-wrap gap-2 justify-content-center">
+                    <a href="{{ url_for('predict_page') }}" class="btn btn-primary-custom px-4 py-2 rounded-pill">
+                        <i class="fa-solid fa-rotate-left me-1"></i> Screen Another
+                    </a>
+                    <a href="{{ url_for('history') }}" class="btn btn-outline-custom px-4 py-2 rounded-pill">
+                        <i class="fa-solid fa-clock-rotate-left me-1"></i> View History
+                    </a>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</div>
+{% endblock %}

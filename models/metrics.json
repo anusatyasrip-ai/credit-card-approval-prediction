@@ -1,0 +1,198 @@
+{
+    "best_model_name": "Logistic Regression",
+    "all_models": {
+        "Logistic Regression": {
+            "accuracy": 0.9867,
+            "precision": 0.9904,
+            "recall": 0.9904,
+            "f1_score": 0.9904,
+            "classification_report": {
+                "0": {
+                    "precision": 0.978021978021978,
+                    "recall": 0.978021978021978,
+                    "f1-score": 0.978021978021978,
+                    "support": 91.0
+                },
+                "1": {
+                    "precision": 0.9904306220095693,
+                    "recall": 0.9904306220095693,
+                    "f1-score": 0.9904306220095693,
+                    "support": 209.0
+                },
+                "accuracy": 0.9866666666666667,
+                "macro avg": {
+                    "precision": 0.9842263000157736,
+                    "recall": 0.9842263000157736,
+                    "f1-score": 0.9842263000157736,
+                    "support": 300.0
+                },
+                "weighted avg": {
+                    "precision": 0.9866666666666667,
+                    "recall": 0.9866666666666667,
+                    "f1-score": 0.9866666666666667,
+                    "support": 300.0
+                }
+            }
+        },
+        "Decision Tree": {
+            "accuracy": 0.9233,
+            "precision": 0.9387,
+            "recall": 0.9522,
+            "f1_score": 0.9454,
+            "classification_report": {
+                "0": {
+                    "precision": 0.8863636363636364,
+                    "recall": 0.8571428571428571,
+                    "f1-score": 0.8715083798882681,
+                    "support": 91.0
+                },
+                "1": {
+                    "precision": 0.9386792452830188,
+                    "recall": 0.9521531100478469,
+                    "f1-score": 0.9453681710213777,
+                    "support": 209.0
+                },
+                "accuracy": 0.9233333333333333,
+                "macro avg": {
+                    "precision": 0.9125214408233275,
+                    "recall": 0.904647983595352,
+                    "f1-score": 0.9084382754548229,
+                    "support": 300.0
+                },
+                "weighted avg": {
+                    "precision": 0.9228101772441395,
+                    "recall": 0.9233333333333333,
+                    "f1-score": 0.9229640343776678,
+                    "support": 300.0
+                }
+            }
+        },
+        "Random Forest": {
+            "accuracy": 0.9267,
+            "precision": 0.9431,
+            "recall": 0.9522,
+            "f1_score": 0.9476,
+            "classification_report": {
+                "0": {
+                    "precision": 0.8876404494382022,
+                    "recall": 0.8681318681318682,
+                    "f1-score": 0.8777777777777778,
+                    "support": 91.0
+                },
+                "1": {
+                    "precision": 0.943127962085308,
+                    "recall": 0.9521531100478469,
+                    "f1-score": 0.9476190476190476,
+                    "support": 209.0
+                },
+                "accuracy": 0.9266666666666666,
+                "macro avg": {
+                    "precision": 0.9153842057617552,
+                    "recall": 0.9101424890898575,
+                    "f1-score": 0.9126984126984127,
+                    "support": 300.0
+                },
+                "weighted avg": {
+                    "precision": 0.9262967499156859,
+                    "recall": 0.9266666666666666,
+                    "f1-score": 0.9264338624338624,
+                    "support": 300.0
+                }
+            }
+        },
+        "XGBoost": {
+            "accuracy": 0.94,
+            "precision": 0.9484,
+            "recall": 0.9665,
+            "f1_score": 0.9573,
+            "classification_report": {
+                "0": {
+                    "precision": 0.9195402298850575,
+                    "recall": 0.8791208791208791,
+                    "f1-score": 0.898876404494382,
+                    "support": 91.0
+                },
+                "1": {
+                    "precision": 0.9483568075117371,
+                    "recall": 0.9665071770334929,
+                    "f1-score": 0.957345971563981,
+                    "support": 209.0
+                },
+                "accuracy": 0.94,
+                "macro avg": {
+                    "precision": 0.9339485186983973,
+                    "recall": 0.9228140280771859,
+                    "f1-score": 0.9281111880291815,
+                    "support": 300.0
+                },
+                "weighted avg": {
+                    "precision": 0.9396157789649775,
+                    "recall": 0.94,
+                    "f1-score": 0.9396102028862026,
+                    "support": 300.0
+                }
+            }
+        }
+    },
+    "confusion_matrices": {
+        "Logistic Regression": [
+            [
+                89,
+                2
+            ],
+            [
+                2,
+                207
+            ]
+        ],
+        "Decision Tree": [
+            [
+                78,
+                13
+            ],
+            [
+                10,
+                199
+            ]
+        ],
+        "Random Forest": [
+            [
+                79,
+                12
+            ],
+            [
+                10,
+                199
+            ]
+        ],
+        "XGBoost": [
+            [
+                80,
+                11
+            ],
+            [
+                7,
+                202
+            ]
+        ]
+    },
+    "features": {
+        "numerical": [
+            "annual_income",
+            "employment_years",
+            "existing_loan_balance",
+            "credit_inquiries",
+            "credit_history_years",
+            "debt_to_income_ratio",
+            "income_per_employment_year"
+        ],
+        "categorical": [
+            "gender",
+            "income_type",
+            "education_level",
+            "employment_status",
+            "payment_status",
+            "high_credit_inquiry_flag"
+        ]
+    }
+}

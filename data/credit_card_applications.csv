@@ -1,0 +1,1501 @@
+gender,income_type,annual_income,employment_years,education_level,employment_status,existing_loan_balance,credit_inquiries,credit_history_years,payment_status,approved
+Male,Self-Employed,97600.0,4.0,Higher education,Employed,3200.0,2,11.2,No Past Due,1
+Female,Self-Employed,53600.0,0.1,Higher education,Employed,35200.0,1,9.8,No Past Due,1
+Female,Salary,69900.0,7.0,Secondary / secondary special,Employed,3300.0,3,9.9,Past Due,0
+Female,Salary,51300.0,2.1,Higher education,Employed,400.0,0,8.1,No Past Due,1
+Male,Salary,18700.0,4.9,,Employed,300.0,0,11.3,No Past Due,1
+Male,Salary,30500.0,2.1,Higher education,Employed,14600.0,3,12.1,Past Due,0
+Male,Self-Employed,71000.0,1.1,Incomplete higher,Self-Employed,16300.0,2,3.9,No Past Due,1
+Female,Self-Employed,53700.0,3.1,Secondary / secondary special,Employed,5600.0,2,8.8,No Past Due,1
+Female,Self-Employed,93900.0,1.6,Higher education,Employed,5800.0,1,5.7,No Past Due,1
+Female,Business,61200.0,4.6,Secondary / secondary special,Pensioner,6200.0,1,10.3,No Past Due,1
+Male,Pensioner,28800.0,1.3,Higher education,Employed,17100.0,1,4.4,Past Due,0
+Female,Business,31600.0,4.3,Secondary / secondary special,Employed,900.0,3,5.7,Past Due,0
+Female,Commercial,51900.0,1.0,Secondary / secondary special,Employed,39700.0,1,7.2,Past Due,0
+Male,Salary,18000.0,6.7,Secondary / secondary special,Self-Employed,3800.0,3,10.7,No Past Due,1
+Male,Salary,123100.0,8.4,Higher education,Employed,120000.0,1,11.0,No Past Due,1
+Male,Salary,62500.0,0.7,Secondary / secondary special,Employed,2800.0,2,4.6,Past Due,0
+Male,Self-Employed,96300.0,3.8,Higher education,Employed,22100.0,1,5.2,No Past Due,1
+Female,Pensioner,20600.0,0.4,Secondary / secondary special,Pensioner,3800.0,0,10.0,No Past Due,1
+Male,Salary,97200.0,5.5,Secondary / secondary special,Employed,1300.0,2,11.7,No Past Due,1
+Male,Commercial,167300.0,1.8,Higher education,Employed,31200.0,0,10.1,No Past Due,1
+Female,Salary,23700.0,0.0,Secondary / secondary special,Unemployed,29400.0,1,4.8,No Past Due,0
+Male,Commercial,74900.0,4.4,Secondary / secondary special,Employed,7800.0,1,13.5,Past Due,0
+Male,Salary,49100.0,15.5,Higher education,Pensioner,18200.0,2,20.8,Past Due,1
+Male,Salary,21000.0,4.8,Secondary / secondary special,Employed,12200.0,1,11.0,No Past Due,1
+Male,Self-Employed,64300.0,0.0,Secondary / secondary special,Unemployed,28800.0,0,5.4,No Past Due,0
+Female,Salary,77500.0,3.1,Secondary / secondary special,Employed,5700.0,0,10.7,No Past Due,1
+Male,Salary,35200.0,17.9,Lower secondary,Self-Employed,11100.0,6,24.0,Past Due,0
+Female,Salary,93100.0,9.0,Higher education,Pensioner,10000.0,1,12.4,No Past Due,1
+Female,Pensioner,19600.0,2.0,Higher education,Employed,6600.0,4,4.3,No Past Due,1
+Male,Self-Employed,21500.0,11.2,Higher education,Employed,33300.0,3,17.7,No Past Due,1
+Female,Salary,52800.0,3.4,Secondary / secondary special,Employed,2700.0,3,8.8,No Past Due,1
+Male,Self-Employed,49700.0,10.6,Secondary / secondary special,Employed,2400.0,3,12.5,No Past Due,1
+Male,Business,33100.0,10.4,Higher education,Employed,12900.0,3,15.0,Past Due,0
+Female,Salary,76500.0,1.3,Secondary / secondary special,Employed,16100.0,1,6.9,No Past Due,1
+Female,Salary,65600.0,7.2,Secondary / secondary special,Employed,3200.0,0,15.6,No Past Due,1
+Female,Salary,78600.0,2.1,Secondary / secondary special,Employed,7400.0,1,3.8,No Past Due,1
+Male,Salary,45800.0,2.1,Secondary / secondary special,Employed,43900.0,1,6.2,No Past Due,0
+Male,Business,68300.0,2.1,Academic degree,Self-Employed,4200.0,0,10.5,Past Due,1
+Female,Salary,38400.0,7.8,Secondary / secondary special,Employed,16600.0,1,14.6,No Past Due,1
+Male,Self-Employed,151700.0,1.6,Higher education,Employed,20200.0,3,5.2,Past Due,1
+Male,Business,31400.0,0.0,Secondary / secondary special,Employed,8900.0,0,8.6,No Past Due,1
+Female,Salary,156000.0,7.5,Lower secondary,Employed,41600.0,0,12.9,No Past Due,1
+Male,Self-Employed,50000.0,1.1,Secondary / secondary special,Employed,20000.0,2,6.6,No Past Due,1
+Female,Salary,23000.0,0.7,Secondary / secondary special,Employed,9200.0,1,10.5,No Past Due,1
+Male,Commercial,104000.0,1.6,Higher education,Employed,12600.0,4,11.1,No Past Due,1
+Female,Self-Employed,52500.0,0.0,Higher education,Unemployed,17700.0,0,4.2,Past Due,0
+Male,Pensioner,78300.0,3.9,Secondary / secondary special,Employed,13500.0,2,6.2,No Past Due,1
+Female,Self-Employed,96100.0,0.3,Secondary / secondary special,Self-Employed,31600.0,4,4.2,No Past Due,1
+Female,Salary,59000.0,21.2,Secondary / secondary special,Self-Employed,6600.0,2,22.5,Past Due,1
+Male,Self-Employed,35400.0,7.6,Secondary / secondary special,Self-Employed,5300.0,4,8.8,Past Due,0
+Female,Commercial,83800.0,2.3,Secondary / secondary special,Pensioner,3600.0,1,6.9,No Past Due,1
+Female,Self-Employed,49000.0,2.3,Secondary / secondary special,Employed,600.0,2,11.8,Past Due,0
+Female,Pensioner,71500.0,3.6,Secondary / secondary special,Employed,700.0,0,12.4,No Past Due,1
+Female,Pensioner,18000.0,5.9,Secondary / secondary special,Pensioner,30600.0,2,11.5,No Past Due,0
+Female,Salary,62700.0,0.9,Higher education,Employed,17000.0,2,7.0,Past Due,0
+Female,Salary,34500.0,1.3,Lower secondary,Employed,16200.0,4,2.4,No Past Due,0
+Male,Self-Employed,121700.0,11.8,Higher education,Self-Employed,14300.0,1,14.7,No Past Due,1
+Male,Salary,69100.0,1.8,Secondary / secondary special,Self-Employed,28400.0,5,3.0,No Past Due,0
+Male,Pensioner,55900.0,2.9,Secondary / secondary special,Pensioner,9800.0,1,10.7,Past Due,0
+Male,Pensioner,64100.0,0.4,Lower secondary,Student,30700.0,0,2.7,Past Due,0
+Male,Salary,28300.0,6.5,Secondary / secondary special,Self-Employed,6700.0,3,15.3,No Past Due,1
+Male,Salary,119700.0,2.5,Secondary / secondary special,Employed,39200.0,1,9.3,No Past Due,1
+Female,Business,146600.0,0.0,Higher education,Unemployed,18000.0,2,3.1,No Past Due,1
+Male,Salary,60800.0,0.1,Higher education,Employed,4500.0,5,2.5,No Past Due,1
+Male,Pensioner,117600.0,8.0,Higher education,Employed,12500.0,0,14.6,No Past Due,1
+Female,Salary,35800.0,4.0,Secondary / secondary special,Pensioner,11400.0,1,13.1,Past Due,0
+Male,Business,31600.0,10.1,Secondary / secondary special,Employed,2200.0,2,17.6,No Past Due,1
+Female,Salary,50100.0,18.6,Lower secondary,Employed,13400.0,0,22.7,No Past Due,1
+Male,Self-Employed,,15.6,Secondary / secondary special,Employed,5700.0,0,21.9,No Past Due,1
+Female,Self-Employed,39500.0,0.0,Higher education,Unemployed,800.0,4,3.8,No Past Due,0
+Female,Self-Employed,65900.0,4.3,Higher education,Employed,44500.0,1,14.3,Past Due,0
+Male,Salary,58000.0,2.7,Higher education,Self-Employed,15400.0,3,10.4,No Past Due,1
+Male,Business,28300.0,3.8,Secondary / secondary special,Employed,31400.0,1,10.3,No Past Due,0
+Female,Pensioner,65200.0,7.0,Secondary / secondary special,Self-Employed,16900.0,0,11.8,No Past Due,1
+Female,Salary,78800.0,12.9,Higher education,Self-Employed,6600.0,2,19.5,No Past Due,1
+Female,Salary,53900.0,1.4,Incomplete higher,Employed,10800.0,4,5.5,No Past Due,0
+Female,Salary,92400.0,15.0,Lower secondary,Employed,16900.0,4,16.3,No Past Due,1
+Male,Self-Employed,25100.0,10.1,Secondary / secondary special,Employed,48400.0,1,14.7,No Past Due,0
+Male,Self-Employed,63400.0,0.9,Secondary / secondary special,Student,4400.0,3,10.3,No Past Due,1
+Male,Self-Employed,25800.0,12.7,Lower secondary,Self-Employed,31200.0,1,19.3,No Past Due,1
+Female,Salary,26600.0,2.0,Higher education,Pensioner,38700.0,1,3.8,No Past Due,0
+Female,Salary,34600.0,0.7,Incomplete higher,Employed,16600.0,1,9.7,Past Due,0
+Male,Self-Employed,29200.0,0.7,Secondary / secondary special,Self-Employed,40200.0,2,4.1,No Past Due,0
+Male,Self-Employed,36300.0,2.1,Higher education,Self-Employed,7600.0,3,5.3,No Past Due,1
+Male,Commercial,43600.0,5.7,Higher education,Self-Employed,45900.0,3,9.4,No Past Due,1
+Male,Salary,77700.0,1.5,Higher education,Student,18200.0,0,7.7,No Past Due,1
+Female,Business,41100.0,13.8,Secondary / secondary special,Employed,600.0,0,19.7,Past Due,1
+Female,Salary,20500.0,5.9,Secondary / secondary special,Employed,35600.0,0,11.3,No Past Due,0
+Female,Salary,91800.0,0.0,Higher education,Self-Employed,9900.0,1,7.5,No Past Due,1
+Male,Business,30900.0,1.2,Secondary / secondary special,Self-Employed,9300.0,2,5.0,No Past Due,1
+Male,Business,47500.0,0.6,Secondary / secondary special,Employed,12500.0,2,8.6,No Past Due,1
+Female,Commercial,62700.0,2.7,Lower secondary,Employed,2400.0,3,5.3,Past Due,0
+Female,Salary,54700.0,4.2,Secondary / secondary special,Employed,9500.0,3,12.2,No Past Due,1
+Female,Salary,89500.0,0.3,Higher education,Employed,26700.0,3,7.3,No Past Due,1
+Female,Business,63800.0,2.6,Secondary / secondary special,Employed,200.0,4,9.7,No Past Due,1
+Female,Self-Employed,30500.0,1.2,Higher education,Self-Employed,4800.0,2,6.5,No Past Due,1
+Female,Salary,162500.0,6.2,Lower secondary,Self-Employed,0.0,1,13.2,No Past Due,1
+Male,Salary,54600.0,3.7,Secondary / secondary special,Employed,8100.0,2,5.4,Past Due,0
+Male,Salary,45200.0,4.1,Secondary / secondary special,Employed,19500.0,1,12.8,No Past Due,1
+Male,Pensioner,83300.0,3.3,Secondary / secondary special,Employed,24000.0,2,4.8,Past Due,0
+Male,Salary,56200.0,18.7,Secondary / secondary special,Employed,43600.0,0,21.0,No Past Due,1
+Female,Salary,61100.0,1.5,Higher education,Self-Employed,14100.0,1,7.7,No Past Due,1
+Male,Salary,193000.0,4.4,Incomplete higher,Pensioner,4400.0,1,12.1,No Past Due,1
+Female,Salary,42100.0,8.0,Secondary / secondary special,Employed,38700.0,0,9.7,Past Due,0
+Female,Salary,41200.0,4.9,Secondary / secondary special,Self-Employed,22400.0,0,14.2,No Past Due,1
+Male,Self-Employed,52300.0,15.9,Secondary / secondary special,Pensioner,12800.0,2,25.7,No Past Due,1
+Male,Salary,88400.0,0.0,Higher education,Unemployed,17800.0,1,6.5,No Past Due,1
+Female,Pensioner,21400.0,3.7,Secondary / secondary special,Employed,38700.0,7,9.0,No Past Due,0
+Male,Salary,18000.0,0.6,Higher education,Pensioner,18700.0,1,8.3,No Past Due,1
+Male,Self-Employed,35500.0,5.6,Higher education,Employed,6900.0,1,9.6,Past Due,0
+Male,Pensioner,20000.0,2.0,Higher education,Employed,18700.0,1,7.4,Past Due,0
+Male,Business,38800.0,1.0,Secondary / secondary special,Employed,600.0,1,10.2,No Past Due,1
+Female,Self-Employed,64600.0,4.7,Higher education,Employed,7300.0,4,14.3,Past Due,0
+Female,Salary,30000.0,4.6,Secondary / secondary special,Employed,7800.0,2,13.9,No Past Due,1
+Female,Salary,22400.0,0.5,Secondary / secondary special,Employed,2700.0,0,3.9,No Past Due,1
+Female,Business,50900.0,7.2,Incomplete higher,Employed,400.0,1,10.3,No Past Due,1
+Female,Commercial,78800.0,0.0,Higher education,Unemployed,2100.0,1,3.7,No Past Due,1
+Male,Business,19300.0,0.0,Secondary / secondary special,Unemployed,15900.0,0,5.0,Past Due,0
+Female,Self-Employed,77000.0,3.8,Secondary / secondary special,Employed,24300.0,1,7.6,No Past Due,1
+Female,Business,76800.0,0.0,Secondary / secondary special,Unemployed,66600.0,4,4.4,No Past Due,0
+Female,Self-Employed,82800.0,0.0,Secondary / secondary special,Unemployed,6400.0,1,6.6,No Past Due,1
+Female,Salary,95800.0,3.0,Secondary / secondary special,Self-Employed,13700.0,2,10.9,No Past Due,1
+Male,Self-Employed,164600.0,2.3,Secondary / secondary special,Employed,41500.0,4,9.9,No Past Due,1
+Male,Commercial,40300.0,5.7,Secondary / secondary special,Self-Employed,2700.0,2,14.0,Past Due,0
+Male,Salary,52100.0,16.8,Higher education,Pensioner,19000.0,1,18.1,Past Due,1
+Male,Business,39000.0,6.7,Higher education,Self-Employed,21100.0,2,8.1,Past Due,0
+Female,Salary,49100.0,0.5,Higher education,Employed,1400.0,5,8.6,No Past Due,1
+Female,Self-Employed,113900.0,3.7,Secondary / secondary special,Employed,29600.0,1,9.5,No Past Due,1
+Male,Salary,23400.0,13.3,Lower secondary,Self-Employed,25200.0,1,19.5,No Past Due,1
+Female,Self-Employed,30500.0,0.6,Higher education,Employed,500.0,2,2.1,No Past Due,1
+Male,Business,104600.0,27.0,Higher education,Employed,1400.0,1,30.3,No Past Due,1
+Male,Salary,85900.0,17.9,Higher education,Employed,800.0,5,24.6,Past Due,1
+Male,Business,40100.0,0.0,Lower secondary,Unemployed,6100.0,2,8.7,No Past Due,0
+Male,Business,78400.0,0.0,Higher education,Unemployed,10700.0,0,9.3,No Past Due,1
+Female,Commercial,59100.0,2.7,Secondary / secondary special,Employed,11400.0,1,8.2,No Past Due,1
+Male,Salary,111900.0,11.2,Higher education,Pensioner,4700.0,2,17.1,No Past Due,1
+Female,Salary,51100.0,3.3,Higher education,Employed,36400.0,1,11.8,No Past Due,1
+Female,Salary,86200.0,3.5,Higher education,Self-Employed,6900.0,2,9.3,Past Due,1
+Male,Commercial,209600.0,6.0,Higher education,Self-Employed,700.0,1,11.7,No Past Due,1
+Female,Commercial,68100.0,0.0,Secondary / secondary special,Unemployed,5400.0,0,9.1,Past Due,0
+Female,Self-Employed,50400.0,0.2,Secondary / secondary special,Pensioner,11400.0,0,8.3,No Past Due,1
+Male,Pensioner,72900.0,5.4,Incomplete higher,Employed,7900.0,4,14.6,No Past Due,1
+Female,Self-Employed,40100.0,0.0,Higher education,Unemployed,4800.0,1,3.0,No Past Due,1
+Male,Self-Employed,182300.0,2.5,Higher education,Employed,2100.0,2,8.2,Past Due,1
+Male,Salary,54100.0,2.6,Secondary / secondary special,Self-Employed,25700.0,1,11.2,Past Due,0
+Male,Business,42200.0,3.8,Secondary / secondary special,Self-Employed,83400.0,1,5.8,No Past Due,0
+Female,Salary,31000.0,2.4,Incomplete higher,Self-Employed,6000.0,1,10.6,No Past Due,1
+Female,Pensioner,89600.0,0.7,Higher education,Employed,7200.0,1,3.3,No Past Due,1
+Male,Business,79000.0,0.0,Higher education,Unemployed,14400.0,3,8.3,No Past Due,1
+Male,Business,37300.0,0.2,Secondary / secondary special,Employed,19000.0,1,6.7,Past Due,0
+Female,Salary,67300.0,3.8,Higher education,Employed,7500.0,3,6.5,No Past Due,1
+Male,Salary,21400.0,18.5,Secondary / secondary special,Self-Employed,35300.0,1,23.8,No Past Due,1
+Male,Salary,,0.7,Higher education,Employed,12300.0,2,7.8,No Past Due,1
+Female,Salary,62900.0,0.0,Secondary / secondary special,Unemployed,9000.0,1,6.7,No Past Due,0
+Female,Salary,125400.0,7.9,Secondary / secondary special,Employed,15600.0,3,12.7,No Past Due,1
+Male,Commercial,32100.0,6.1,Higher education,Employed,45800.0,2,15.2,No Past Due,1
+Female,Self-Employed,24300.0,0.0,Lower secondary,Unemployed,23700.0,1,5.7,No Past Due,0
+Female,Salary,30000.0,10.5,Secondary / secondary special,Employed,600.0,3,16.1,No Past Due,1
+Male,Salary,23500.0,0.7,Higher education,Employed,6100.0,2,2.3,No Past Due,1
+Female,Salary,102200.0,4.2,Secondary / secondary special,Self-Employed,9500.0,1,13.5,Past Due,1
+Male,Self-Employed,114900.0,7.2,Secondary / secondary special,Employed,5700.0,3,9.8,No Past Due,1
+Female,Self-Employed,58500.0,5.3,Secondary / secondary special,Self-Employed,18100.0,0,11.1,No Past Due,1
+Female,Pensioner,96000.0,10.7,Secondary / secondary special,Employed,26300.0,4,18.9,No Past Due,1
+Female,Self-Employed,52800.0,0.0,Higher education,Unemployed,19700.0,1,2.9,No Past Due,0
+Male,Commercial,46500.0,0.0,Secondary / secondary special,Unemployed,68100.0,3,5.7,No Past Due,0
+Female,Pensioner,40800.0,4.6,Secondary / secondary special,Self-Employed,4800.0,0,7.8,No Past Due,1
+Male,Salary,41300.0,2.9,Incomplete higher,Employed,31200.0,1,10.7,No Past Due,1
+Male,Commercial,20900.0,0.0,Secondary / secondary special,Unemployed,21800.0,4,6.1,Past Due,0
+Male,Salary,56700.0,5.8,Higher education,Self-Employed,6700.0,2,14.5,No Past Due,1
+Female,Pensioner,47900.0,13.3,Secondary / secondary special,Self-Employed,19900.0,3,22.4,No Past Due,1
+Female,Salary,73900.0,4.1,Higher education,Employed,1600.0,2,10.9,No Past Due,1
+Male,Pensioner,51600.0,0.0,Secondary / secondary special,Unemployed,23400.0,5,7.5,No Past Due,0
+Female,Pensioner,44800.0,3.1,Secondary / secondary special,Self-Employed,11400.0,4,9.0,No Past Due,1
+Male,Pensioner,30400.0,0.6,Secondary / secondary special,Employed,5200.0,2,5.1,Past Due,0
+Female,Business,51000.0,0.4,Secondary / secondary special,Employed,16000.0,1,7.2,No Past Due,1
+Male,Salary,73600.0,0.3,Secondary / secondary special,Pensioner,15400.0,2,9.5,No Past Due,1
+Female,Salary,26100.0,2.9,Higher education,Employed,3500.0,3,7.7,No Past Due,1
+Male,Salary,51400.0,2.5,Incomplete higher,Student,500.0,2,6.3,No Past Due,1
+Female,Salary,55700.0,7.6,Higher education,Self-Employed,8500.0,3,12.1,No Past Due,1
+Male,Business,33000.0,8.1,Higher education,Self-Employed,12600.0,2,13.0,No Past Due,1
+Male,Salary,35500.0,0.3,Secondary / secondary special,Employed,31400.0,1,2.0,No Past Due,0
+Male,Commercial,55600.0,1.5,Secondary / secondary special,Employed,39500.0,1,7.0,No Past Due,1
+Female,Self-Employed,26300.0,1.9,Secondary / secondary special,Pensioner,11300.0,2,7.3,No Past Due,1
+Female,Pensioner,59400.0,4.8,Secondary / secondary special,Employed,21000.0,2,11.1,Past Due,0
+Male,Salary,30000.0,0.9,Higher education,Self-Employed,8700.0,1,5.2,No Past Due,1
+Female,Pensioner,88000.0,0.9,Higher education,Employed,20600.0,1,7.4,Past Due,1
+Female,Commercial,177300.0,17.3,Secondary / secondary special,Employed,3400.0,3,26.2,Past Due,1
+Female,Self-Employed,30500.0,9.8,Secondary / secondary special,Employed,7000.0,4,19.4,No Past Due,1
+Female,Self-Employed,65800.0,1.2,Higher education,Employed,15100.0,1,7.5,No Past Due,1
+Male,Business,32900.0,3.1,Higher education,Student,300.0,0,4.5,No Past Due,1
+Male,Salary,86900.0,2.6,Secondary / secondary special,Employed,19200.0,1,12.3,No Past Due,1
+Female,Self-Employed,24400.0,9.4,Incomplete higher,Employed,27100.0,0,16.8,No Past Due,1
+Female,Salary,63900.0,4.3,Lower secondary,Employed,7600.0,1,8.3,Past Due,0
+Female,Salary,30300.0,0.8,Secondary / secondary special,Employed,8900.0,2,3.1,Past Due,0
+Male,Salary,43700.0,8.1,Secondary / secondary special,Employed,28600.0,3,10.4,No Past Due,1
+Male,Salary,27800.0,0.0,Higher education,Unemployed,22400.0,2,2.5,No Past Due,0
+Female,Salary,77100.0,1.8,Lower secondary,Employed,5100.0,0,3.2,No Past Due,1
+Female,Salary,30900.0,2.8,Incomplete higher,Employed,5900.0,1,11.9,Past Due,0
+Female,Commercial,66400.0,4.1,Secondary / secondary special,Employed,17000.0,1,10.0,No Past Due,1
+Female,Self-Employed,40600.0,2.5,Secondary / secondary special,Student,12400.0,0,9.8,No Past Due,1
+Female,Commercial,46000.0,1.7,Higher education,Employed,2700.0,4,10.2,No Past Due,1
+Male,Salary,53200.0,3.0,Higher education,Employed,5600.0,1,11.1,No Past Due,1
+Male,Salary,32200.0,0.1,Secondary / secondary special,Self-Employed,34500.0,2,9.0,Past Due,0
+Female,Self-Employed,55000.0,8.9,Incomplete higher,Employed,17500.0,0,18.6,No Past Due,1
+Female,Salary,113700.0,1.1,Higher education,Employed,64000.0,4,6.1,No Past Due,1
+Male,Salary,32000.0,0.3,Higher education,Employed,21900.0,0,9.9,Past Due,0
+Male,Self-Employed,93400.0,6.4,Incomplete higher,Self-Employed,42700.0,1,13.9,No Past Due,1
+Female,Salary,111700.0,8.9,Higher education,Employed,3700.0,2,10.5,No Past Due,1
+Male,Self-Employed,31300.0,0.0,Secondary / secondary special,Unemployed,22100.0,3,7.1,No Past Due,0
+Male,Business,22000.0,4.1,Higher education,Self-Employed,300.0,1,11.3,No Past Due,1
+Female,Salary,57900.0,1.4,Secondary / secondary special,Employed,16700.0,2,10.6,No Past Due,1
+Female,Salary,36300.0,8.0,Higher education,Employed,9500.0,4,12.4,No Past Due,1
+Female,Business,137000.0,7.2,Secondary / secondary special,Employed,6400.0,6,13.5,No Past Due,1
+Male,Self-Employed,50000.0,1.7,Higher education,Self-Employed,29800.0,0,2.8,No Past Due,1
+Female,Salary,31500.0,14.0,Secondary / secondary special,Employed,28900.0,1,18.0,Past Due,0
+Male,Commercial,26100.0,0.7,Secondary / secondary special,Employed,300.0,1,2.3,Past Due,0
+Male,Salary,89300.0,24.3,Secondary / secondary special,Employed,14100.0,1,30.0,No Past Due,1
+Female,Business,35800.0,1.8,Secondary / secondary special,Student,6900.0,0,10.2,No Past Due,1
+Female,Commercial,50200.0,7.0,Higher education,Employed,8100.0,0,9.9,No Past Due,1
+Female,Salary,,16.8,Higher education,Pensioner,26800.0,2,22.5,No Past Due,1
+Female,Salary,37600.0,7.7,Higher education,Employed,5600.0,3,10.5,Past Due,0
+Female,Salary,47800.0,1.3,Secondary / secondary special,Employed,43000.0,4,3.4,No Past Due,0
+Male,Salary,48600.0,3.5,Secondary / secondary special,Employed,3000.0,4,9.1,No Past Due,1
+Male,Salary,71400.0,0.4,Secondary / secondary special,Employed,16300.0,2,2.1,No Past Due,1
+Male,Business,67800.0,3.0,Secondary / secondary special,Employed,16700.0,1,9.3,No Past Due,1
+Male,Salary,43400.0,8.1,Incomplete higher,Employed,4400.0,0,9.4,No Past Due,1
+Female,Self-Employed,50800.0,2.9,Secondary / secondary special,Pensioner,5900.0,3,4.9,No Past Due,1
+Male,Commercial,40000.0,0.0,Secondary / secondary special,Unemployed,27000.0,2,5.9,Past Due,0
+Female,Pensioner,21700.0,5.4,Secondary / secondary special,Self-Employed,21500.0,4,11.7,Past Due,0
+Female,Self-Employed,56500.0,12.3,Secondary / secondary special,Employed,6000.0,2,13.6,No Past Due,1
+Female,Salary,138800.0,0.3,Higher education,Employed,11500.0,5,6.5,No Past Due,1
+Female,Self-Employed,30200.0,2.9,Higher education,Employed,1000.0,2,11.4,Past Due,0
+Female,Self-Employed,32000.0,1.0,Secondary / secondary special,Self-Employed,3500.0,2,8.5,No Past Due,1
+Female,Salary,30400.0,7.1,Secondary / secondary special,Pensioner,10000.0,0,9.3,No Past Due,1
+Male,Salary,73000.0,0.7,Secondary / secondary special,Employed,1300.0,3,7.0,No Past Due,1
+Female,Pensioner,62700.0,6.6,Secondary / secondary special,Employed,27800.0,1,13.7,Past Due,0
+Male,Salary,44900.0,2.0,Secondary / secondary special,Employed,19000.0,1,3.3,No Past Due,1
+Male,Salary,29600.0,1.3,Lower secondary,Employed,43100.0,2,10.0,No Past Due,0
+Female,Salary,51600.0,16.5,Higher education,Employed,17700.0,0,25.7,Past Due,1
+Male,Salary,20700.0,0.1,Higher education,Self-Employed,42300.0,1,8.8,Past Due,0
+Female,Pensioner,53000.0,3.5,Secondary / secondary special,Self-Employed,12100.0,1,11.9,Past Due,0
+Female,Business,79200.0,0.1,Secondary / secondary special,Employed,13800.0,1,7.8,No Past Due,1
+Female,Business,24600.0,4.0,Higher education,Employed,56600.0,3,10.7,No Past Due,0
+Male,Salary,21100.0,2.4,Higher education,Student,15400.0,2,9.5,No Past Due,1
+Male,Salary,116900.0,2.3,Higher education,Employed,500.0,1,10.6,Past Due,1
+Female,Self-Employed,35000.0,0.9,Secondary / secondary special,Employed,19300.0,2,7.9,No Past Due,0
+Male,Salary,91600.0,2.8,Higher education,Employed,35400.0,3,6.7,No Past Due,1
+Female,Salary,45000.0,6.7,Secondary / secondary special,Employed,23800.0,1,11.1,Past Due,0
+Female,Business,44800.0,9.2,Incomplete higher,Employed,13200.0,0,18.3,No Past Due,1
+Female,Salary,62400.0,0.0,Higher education,Unemployed,16700.0,1,1.2,No Past Due,1
+Male,Self-Employed,30100.0,5.3,Higher education,Employed,69400.0,0,12.6,No Past Due,0
+Male,Salary,52700.0,1.3,Secondary / secondary special,Employed,1400.0,1,10.9,No Past Due,1
+Female,Salary,39700.0,2.0,Higher education,Self-Employed,16500.0,1,9.4,No Past Due,1
+Male,Salary,23700.0,1.1,Secondary / secondary special,Employed,5000.0,1,11.0,No Past Due,1
+Male,Commercial,59000.0,0.0,Secondary / secondary special,Unemployed,15300.0,2,7.2,No Past Due,0
+Female,Pensioner,42400.0,0.0,Secondary / secondary special,Unemployed,14000.0,2,1.3,No Past Due,0
+Female,Commercial,45000.0,4.4,Higher education,Employed,2500.0,1,12.8,No Past Due,1
+Female,Self-Employed,25200.0,5.0,Secondary / secondary special,Self-Employed,3500.0,2,8.6,No Past Due,1
+Female,Salary,117600.0,17.4,Secondary / secondary special,Employed,14600.0,0,22.4,Past Due,1
+Male,Self-Employed,79400.0,1.3,Incomplete higher,Student,2100.0,0,5.1,No Past Due,1
+Female,Self-Employed,83300.0,6.2,Secondary / secondary special,Employed,4600.0,5,9.6,No Past Due,1
+Female,Pensioner,41400.0,2.0,Higher education,Student,27000.0,0,6.9,Past Due,0
+Male,Salary,18900.0,4.9,Secondary / secondary special,Self-Employed,5900.0,0,9.3,No Past Due,1
+Female,Self-Employed,143500.0,1.8,Secondary / secondary special,Employed,10000.0,1,8.5,Past Due,1
+Female,Salary,47400.0,1.8,Higher education,Employed,42500.0,0,10.1,Past Due,0
+Female,Salary,32500.0,0.2,Secondary / secondary special,Student,3900.0,1,3.9,No Past Due,1
+Female,Business,61700.0,0.0,Secondary / secondary special,Unemployed,7400.0,1,2.9,Past Due,0
+Female,Self-Employed,93100.0,8.2,Higher education,Employed,14000.0,3,15.2,No Past Due,1
+Male,Salary,48400.0,0.3,Higher education,Self-Employed,21100.0,1,7.3,No Past Due,1
+Male,Salary,99000.0,1.5,Higher education,Employed,34800.0,1,10.6,No Past Due,1
+Female,Self-Employed,,7.3,Secondary / secondary special,Employed,37100.0,3,8.4,No Past Due,1
+Female,Business,27100.0,9.2,Secondary / secondary special,Employed,22500.0,2,17.9,Past Due,0
+Female,Pensioner,33800.0,3.6,Higher education,Employed,3900.0,3,9.3,No Past Due,1
+Female,Commercial,83000.0,0.0,Higher education,Unemployed,400.0,1,6.6,No Past Due,1
+Female,Business,18000.0,2.9,Higher education,Employed,7300.0,0,4.7,No Past Due,1
+Female,Salary,45200.0,0.0,Higher education,Unemployed,2300.0,0,4.9,No Past Due,1
+Female,Business,22300.0,3.0,Higher education,Employed,18600.0,1,6.0,No Past Due,1
+Female,Salary,37700.0,5.2,Secondary / secondary special,Employed,16200.0,5,8.5,No Past Due,0
+Female,Salary,41600.0,17.7,Secondary / secondary special,Employed,700.0,1,23.2,Past Due,1
+Female,Pensioner,40300.0,0.4,Higher education,Employed,27200.0,4,8.7,No Past Due,1
+Female,Salary,36200.0,4.2,Secondary / secondary special,Employed,4300.0,1,11.9,Past Due,0
+Male,Pensioner,26800.0,2.4,Secondary / secondary special,Employed,8500.0,0,8.7,No Past Due,1
+Male,Self-Employed,172900.0,4.3,Incomplete higher,Employed,16500.0,3,10.2,Past Due,1
+Male,Self-Employed,136900.0,0.1,Incomplete higher,Employed,8400.0,3,4.9,No Past Due,1
+Female,Business,25900.0,2.3,Secondary / secondary special,Employed,8700.0,2,12.1,No Past Due,1
+Male,Pensioner,117000.0,10.3,Secondary / secondary special,Employed,1000.0,2,16.3,No Past Due,1
+Male,Self-Employed,39400.0,0.0,Secondary / secondary special,Unemployed,7700.0,1,3.3,Past Due,0
+Female,Self-Employed,52600.0,3.6,Higher education,Pensioner,21700.0,3,6.7,No Past Due,1
+Male,Salary,47300.0,2.0,Incomplete higher,Employed,37000.0,4,8.5,Past Due,0
+Female,Self-Employed,34100.0,2.1,Secondary / secondary special,Employed,8000.0,2,7.8,No Past Due,1
+Male,Salary,84200.0,2.9,Secondary / secondary special,Employed,8300.0,1,4.0,No Past Due,1
+Male,Business,52500.0,10.8,Incomplete higher,Pensioner,18200.0,2,19.3,No Past Due,1
+Female,Self-Employed,37700.0,20.5,Secondary / secondary special,Employed,42900.0,2,27.8,Past Due,0
+Male,Business,23900.0,3.5,Higher education,Employed,4700.0,3,10.5,No Past Due,1
+Male,Salary,30000.0,3.0,Lower secondary,Employed,8700.0,0,4.6,Past Due,0
+Female,Salary,19900.0,11.2,Secondary / secondary special,Employed,23800.0,0,15.5,Past Due,0
+Female,Business,49400.0,3.3,Higher education,Employed,14100.0,3,12.7,No Past Due,1
+Male,Salary,25400.0,4.8,Secondary / secondary special,Self-Employed,1800.0,1,13.6,No Past Due,1
+Female,Salary,42400.0,1.6,Secondary / secondary special,Employed,14800.0,2,5.2,No Past Due,1
+Male,Salary,104100.0,8.2,Higher education,Self-Employed,3100.0,1,10.6,No Past Due,1
+Male,Commercial,94800.0,4.6,Secondary / secondary special,Employed,10700.0,1,9.6,Past Due,0
+Female,Business,48200.0,9.9,Academic degree,Employed,11300.0,0,14.1,No Past Due,1
+Female,Salary,46700.0,9.1,Higher education,Pensioner,31300.0,1,16.2,No Past Due,1
+Female,Salary,137900.0,1.5,Secondary / secondary special,Employed,9300.0,1,11.2,Past Due,1
+Female,Salary,65300.0,0.0,Secondary / secondary special,Unemployed,4900.0,2,4.3,No Past Due,0
+Female,Business,40900.0,9.7,Secondary / secondary special,Employed,3900.0,2,11.3,No Past Due,1
+Female,Business,22400.0,2.5,Secondary / secondary special,Employed,31100.0,3,11.6,No Past Due,0
+Male,Salary,60900.0,1.1,Secondary / secondary special,Pensioner,2800.0,1,2.4,No Past Due,1
+Female,Salary,77400.0,0.0,Secondary / secondary special,Employed,8300.0,2,9.6,No Past Due,1
+Male,Salary,34600.0,0.0,Secondary / secondary special,Unemployed,3100.0,2,7.0,Past Due,0
+Male,Business,57500.0,2.6,Higher education,Employed,22300.0,2,12.1,No Past Due,1
+Male,Business,,0.0,Higher education,Unemployed,9600.0,1,2.8,No Past Due,0
+Male,Salary,44300.0,1.2,Higher education,Employed,6500.0,4,2.6,No Past Due,1
+Female,Salary,18000.0,11.8,Secondary / secondary special,Employed,6700.0,1,17.2,No Past Due,1
+Female,Salary,43400.0,1.8,Secondary / secondary special,Self-Employed,28700.0,0,6.9,No Past Due,1
+Female,Commercial,83500.0,1.5,Higher education,Pensioner,12100.0,1,5.5,Past Due,1
+Male,Salary,34600.0,3.9,Secondary / secondary special,Pensioner,19000.0,1,13.5,No Past Due,1
+Male,Business,50500.0,0.0,Secondary / secondary special,Unemployed,34100.0,3,8.4,No Past Due,0
+Male,Self-Employed,32300.0,1.5,Higher education,Pensioner,34800.0,1,8.5,No Past Due,1
+Male,Salary,59800.0,1.9,Higher education,Employed,6000.0,4,4.4,No Past Due,1
+Female,Salary,43500.0,1.1,Higher education,Employed,45700.0,3,8.7,No Past Due,0
+Female,Salary,29200.0,7.6,Secondary / secondary special,Employed,400.0,1,15.1,No Past Due,1
+Female,Self-Employed,102000.0,8.8,Higher education,Employed,7100.0,2,13.6,No Past Due,1
+Male,Business,81700.0,3.7,Higher education,Employed,33900.0,1,13.0,No Past Due,1
+Female,Self-Employed,35100.0,7.5,Higher education,Employed,4800.0,3,10.0,No Past Due,1
+Female,Self-Employed,64500.0,8.0,Higher education,Employed,4800.0,3,11.4,No Past Due,1
+Female,Salary,65900.0,0.9,Higher education,Self-Employed,5400.0,1,2.5,Past Due,0
+Female,Commercial,69800.0,20.3,Higher education,Employed,14200.0,2,28.5,No Past Due,1
+Male,Business,19300.0,10.3,Secondary / secondary special,Employed,8700.0,1,16.9,No Past Due,1
+Male,Salary,85300.0,1.4,,Employed,19500.0,4,5.2,No Past Due,1
+Male,Commercial,35800.0,1.2,Higher education,Self-Employed,33800.0,1,3.7,No Past Due,1
+Female,Self-Employed,40300.0,0.8,Higher education,Self-Employed,16800.0,1,2.2,No Past Due,1
+Male,Self-Employed,209200.0,0.9,Secondary / secondary special,Self-Employed,3400.0,2,3.4,No Past Due,1
+Male,Business,57900.0,8.3,Secondary / secondary special,Employed,40500.0,2,13.4,No Past Due,1
+Male,Pensioner,39600.0,3.8,Incomplete higher,Employed,4600.0,3,7.0,No Past Due,1
+Male,Business,18000.0,9.2,Higher education,Employed,2400.0,2,12.5,No Past Due,1
+Female,Salary,105300.0,8.2,Incomplete higher,Employed,1400.0,1,17.1,No Past Due,1
+Female,Salary,23400.0,5.6,Higher education,Employed,12400.0,3,11.2,No Past Due,1
+Male,Commercial,28200.0,7.0,Higher education,Employed,1800.0,1,14.6,No Past Due,1
+Male,Salary,40900.0,0.1,Higher education,Employed,2200.0,1,1.4,No Past Due,1
+Female,Salary,106800.0,2.2,Incomplete higher,Pensioner,5400.0,1,6.5,No Past Due,1
+Male,Salary,75000.0,6.1,Higher education,Pensioner,5000.0,4,11.4,No Past Due,1
+Male,Salary,44900.0,0.1,Higher education,Employed,13900.0,0,2.8,No Past Due,1
+Male,Self-Employed,58100.0,0.2,Secondary / secondary special,Employed,25500.0,2,2.3,Past Due,0
+Male,Commercial,35200.0,11.5,Secondary / secondary special,Employed,21500.0,4,20.3,No Past Due,1
+Female,Salary,52900.0,6.9,Higher education,Employed,4600.0,0,16.4,No Past Due,1
+Female,Salary,51000.0,1.9,Secondary / secondary special,Pensioner,4200.0,2,3.6,No Past Due,1
+Male,Salary,83500.0,7.0,Secondary / secondary special,Employed,50600.0,2,11.1,Past Due,0
+Male,Pensioner,83400.0,9.4,Secondary / secondary special,Self-Employed,100.0,1,19.0,No Past Due,1
+Female,Self-Employed,64300.0,2.2,Secondary / secondary special,Employed,31800.0,0,3.9,No Past Due,1
+Female,Salary,40200.0,0.2,Secondary / secondary special,Student,3300.0,1,7.0,No Past Due,1
+Female,Pensioner,73700.0,16.2,Secondary / secondary special,Employed,44100.0,1,25.9,No Past Due,1
+Female,Pensioner,46600.0,2.5,Incomplete higher,Self-Employed,6300.0,1,12.3,No Past Due,1
+Male,Pensioner,27000.0,0.7,Higher education,Employed,8700.0,1,5.9,No Past Due,1
+Male,Pensioner,39300.0,4.1,Secondary / secondary special,Self-Employed,18400.0,0,6.6,Past Due,0
+Female,Salary,51400.0,8.8,Secondary / secondary special,Employed,13300.0,3,11.6,Past Due,0
+Male,Business,80900.0,1.5,Higher education,Employed,5700.0,1,10.5,No Past Due,1
+Female,Self-Employed,44300.0,1.9,Secondary / secondary special,Pensioner,12100.0,2,11.1,No Past Due,1
+Female,Pensioner,25200.0,1.7,Higher education,Pensioner,19700.0,1,8.2,Past Due,0
+Female,Business,50600.0,28.7,Higher education,Pensioner,600.0,1,36.6,No Past Due,1
+Male,Business,52200.0,1.3,Higher education,Self-Employed,200.0,0,9.0,No Past Due,1
+Female,Business,,0.0,Secondary / secondary special,Unemployed,9200.0,2,7.0,No Past Due,0
+Male,Salary,81300.0,15.6,Higher education,Employed,2100.0,4,24.0,No Past Due,1
+Female,Self-Employed,85900.0,1.0,Secondary / secondary special,Employed,16400.0,4,8.2,No Past Due,1
+Female,Commercial,35400.0,21.2,Lower secondary,Employed,3600.0,2,27.0,No Past Due,1
+Male,Commercial,34900.0,17.7,Higher education,Self-Employed,8500.0,0,20.8,No Past Due,1
+Female,Salary,27700.0,13.0,Secondary / secondary special,Employed,3300.0,2,20.7,No Past Due,1
+Female,Salary,72000.0,1.4,Secondary / secondary special,Employed,11900.0,2,6.7,No Past Due,1
+Male,Salary,108800.0,6.0,Secondary / secondary special,Employed,1900.0,3,9.7,No Past Due,1
+Male,Business,41200.0,0.0,Higher education,Unemployed,400.0,3,8.2,Past Due,0
+Male,Pensioner,42900.0,25.6,Secondary / secondary special,Employed,800.0,3,32.9,No Past Due,1
+Male,Salary,109800.0,1.2,Higher education,Employed,46300.0,1,10.6,No Past Due,1
+Male,Self-Employed,64700.0,8.7,Secondary / secondary special,Employed,2300.0,2,11.2,Past Due,0
+Female,Pensioner,62300.0,2.5,Higher education,Employed,18500.0,2,9.3,Past Due,0
+Male,Business,25500.0,1.2,Higher education,Employed,1100.0,0,4.4,No Past Due,1
+Male,Self-Employed,71200.0,3.3,Higher education,Self-Employed,1700.0,3,12.4,No Past Due,1
+Female,Self-Employed,29400.0,9.5,Higher education,Self-Employed,10700.0,3,11.4,No Past Due,1
+Male,Self-Employed,26300.0,3.8,Secondary / secondary special,Self-Employed,9400.0,2,10.7,Past Due,0
+Female,Salary,40500.0,4.6,Secondary / secondary special,Employed,45400.0,1,12.7,Past Due,0
+Male,Self-Employed,35500.0,0.0,Higher education,Unemployed,43500.0,1,4.2,Past Due,0
+Male,Business,43400.0,3.1,Secondary / secondary special,Employed,22700.0,1,12.7,No Past Due,1
+Female,Pensioner,22200.0,5.7,Secondary / secondary special,Employed,13800.0,0,14.4,No Past Due,1
+Female,Self-Employed,83100.0,0.0,Secondary / secondary special,Unemployed,9100.0,0,3.7,No Past Due,1
+Female,Business,91100.0,3.0,Secondary / secondary special,Employed,6600.0,4,4.1,No Past Due,1
+Female,Salary,18000.0,7.1,Secondary / secondary special,Employed,44100.0,1,10.8,No Past Due,0
+Female,Self-Employed,84000.0,16.7,Incomplete higher,Pensioner,13900.0,4,20.2,No Past Due,1
+Male,Salary,31400.0,4.7,Secondary / secondary special,Employed,13000.0,2,13.7,No Past Due,1
+Male,Salary,78500.0,8.8,Higher education,Self-Employed,4000.0,1,18.5,No Past Due,1
+Female,Business,47200.0,0.6,Secondary / secondary special,Employed,700.0,3,2.2,No Past Due,1
+Female,Commercial,49800.0,1.4,Higher education,Self-Employed,43600.0,2,6.6,No Past Due,1
+Female,Salary,44300.0,4.2,Secondary / secondary special,Employed,5600.0,1,10.1,No Past Due,1
+Male,Salary,95500.0,0.1,Incomplete higher,Employed,8800.0,0,1.9,No Past Due,1
+Male,Pensioner,24800.0,1.7,Incomplete higher,Self-Employed,1800.0,0,6.1,Past Due,0
+Female,Salary,68500.0,4.4,Secondary / secondary special,Employed,27200.0,3,8.3,No Past Due,1
+Male,Self-Employed,89800.0,0.1,Incomplete higher,Employed,400.0,4,5.9,Past Due,0
+Female,Business,72700.0,1.8,Academic degree,Employed,26900.0,0,8.8,No Past Due,1
+Female,Self-Employed,176100.0,4.3,Higher education,Employed,2300.0,3,11.6,No Past Due,1
+Male,Salary,36600.0,5.1,Higher education,Employed,32600.0,1,7.3,No Past Due,1
+Female,Salary,83000.0,15.6,Secondary / secondary special,Employed,19600.0,1,23.9,No Past Due,1
+Female,Business,46200.0,6.2,Higher education,Pensioner,2700.0,4,13.3,Past Due,0
+Male,Self-Employed,96600.0,3.2,Secondary / secondary special,Employed,12500.0,1,12.2,No Past Due,1
+Female,Salary,48800.0,16.0,Secondary / secondary special,Employed,5600.0,2,21.0,Past Due,1
+Female,Business,39600.0,9.2,Academic degree,Employed,2900.0,1,18.2,No Past Due,1
+Female,Salary,100500.0,1.3,Secondary / secondary special,Employed,29400.0,1,10.1,Past Due,0
+Male,Business,37400.0,0.8,Higher education,Pensioner,7800.0,3,5.7,No Past Due,1
+Female,Salary,22500.0,6.8,Higher education,Employed,7600.0,1,11.2,Past Due,0
+Male,Commercial,36900.0,1.8,,Student,2800.0,2,11.2,No Past Due,1
+Male,Salary,68900.0,9.4,Academic degree,Employed,7200.0,3,16.8,No Past Due,1
+Female,Salary,105400.0,8.1,Secondary / secondary special,Self-Employed,30800.0,2,17.5,No Past Due,1
+Male,Salary,52100.0,5.9,Secondary / secondary special,Employed,6800.0,2,14.1,Past Due,0
+Male,Salary,101200.0,25.8,Secondary / secondary special,Pensioner,45400.0,1,32.3,No Past Due,1
+Female,Pensioner,23200.0,4.6,Secondary / secondary special,Employed,43900.0,0,6.6,No Past Due,0
+Female,Commercial,38400.0,0.7,Secondary / secondary special,Employed,2300.0,1,4.3,Past Due,0
+Female,Salary,41800.0,10.6,Secondary / secondary special,Employed,2900.0,2,20.3,No Past Due,1
+Female,Salary,46000.0,1.7,Higher education,Employed,29800.0,2,5.6,No Past Due,1
+Male,Business,51300.0,9.0,Higher education,Pensioner,7500.0,3,10.8,No Past Due,1
+Male,Pensioner,71700.0,18.9,Secondary / secondary special,Employed,100.0,0,26.3,No Past Due,1
+Male,Self-Employed,38400.0,7.2,Higher education,Employed,4800.0,4,14.8,Past Due,0
+Female,Salary,52900.0,5.4,Secondary / secondary special,Self-Employed,13700.0,3,9.0,Past Due,0
+Female,Salary,47800.0,3.7,Secondary / secondary special,Employed,24100.0,0,7.4,No Past Due,1
+Female,Business,29500.0,2.7,Higher education,Pensioner,2100.0,1,7.9,Past Due,0
+Female,Salary,46100.0,2.6,Higher education,Self-Employed,1800.0,1,3.8,No Past Due,1
+Male,Self-Employed,45300.0,6.1,,Employed,38300.0,1,14.2,No Past Due,1
+Female,Salary,44800.0,8.3,Secondary / secondary special,Pensioner,20900.0,0,12.2,No Past Due,1
+Male,Business,49900.0,6.8,Higher education,Employed,13400.0,1,15.5,No Past Due,1
+Female,Salary,51100.0,1.3,Higher education,Employed,22000.0,3,9.5,No Past Due,1
+Male,Self-Employed,38600.0,4.1,Higher education,Employed,8400.0,2,11.1,Past Due,0
+Female,Self-Employed,98700.0,9.4,Higher education,Employed,21300.0,0,13.3,Past Due,1
+Male,Self-Employed,25800.0,3.9,Incomplete higher,Self-Employed,7000.0,2,9.5,No Past Due,1
+Male,Salary,33000.0,4.6,Higher education,Pensioner,4200.0,2,9.6,No Past Due,1
+Male,Self-Employed,,8.8,Higher education,Employed,19600.0,0,12.8,No Past Due,1
+Female,Self-Employed,27700.0,6.5,Academic degree,Employed,8200.0,2,15.1,Past Due,0
+Female,Self-Employed,23300.0,3.2,Higher education,Student,59800.0,3,8.6,Past Due,0
+Male,Self-Employed,73400.0,13.5,Secondary / secondary special,Employed,6400.0,0,22.0,No Past Due,1
+Male,Business,18000.0,1.1,Higher education,Employed,38200.0,2,3.0,Past Due,0
+Female,Pensioner,43100.0,32.4,Secondary / secondary special,Employed,40500.0,1,34.7,No Past Due,1
+Male,Salary,159600.0,0.8,Secondary / secondary special,Pensioner,4200.0,0,10.6,No Past Due,1
+Female,Pensioner,21000.0,0.1,Higher education,Employed,24000.0,1,6.4,No Past Due,0
+Female,Self-Employed,18000.0,13.2,Incomplete higher,Self-Employed,8500.0,3,18.8,No Past Due,1
+Male,Salary,21500.0,0.0,Incomplete higher,Unemployed,37400.0,1,5.7,No Past Due,0
+Male,Salary,80300.0,7.8,Secondary / secondary special,Employed,9000.0,2,10.7,No Past Due,1
+Female,Salary,91000.0,10.0,Higher education,Employed,20500.0,0,17.5,No Past Due,1
+Male,Business,37000.0,0.0,Secondary / secondary special,Unemployed,9400.0,0,1.8,No Past Due,0
+Male,Business,71400.0,28.7,Academic degree,Employed,3900.0,4,34.9,No Past Due,1
+Female,Business,105300.0,2.1,Academic degree,Self-Employed,3300.0,3,8.2,No Past Due,1
+Female,Self-Employed,131000.0,7.4,Higher education,Pensioner,8300.0,3,16.6,No Past Due,1
+Female,Salary,42800.0,0.7,Higher education,Self-Employed,21100.0,3,6.4,Past Due,0
+Female,Salary,18000.0,3.1,Higher education,Self-Employed,13900.0,1,5.3,No Past Due,1
+Male,Salary,31200.0,0.0,Higher education,Unemployed,17500.0,0,6.2,No Past Due,0
+Male,Salary,38800.0,0.0,Secondary / secondary special,Unemployed,5000.0,3,1.8,No Past Due,0
+Female,Salary,42500.0,5.4,Secondary / secondary special,Employed,9900.0,1,8.2,Past Due,0
+Female,Salary,44200.0,4.2,Higher education,Employed,700.0,0,5.5,Past Due,1
+Male,Self-Employed,90700.0,6.2,Higher education,Employed,25500.0,2,11.8,No Past Due,1
+Female,Business,98800.0,21.6,Secondary / secondary special,Self-Employed,68900.0,3,23.4,No Past Due,1
+Male,Commercial,44600.0,0.3,Lower secondary,Employed,7800.0,3,5.5,Past Due,0
+Female,Commercial,89700.0,5.1,Secondary / secondary special,Self-Employed,200.0,0,14.5,No Past Due,1
+Male,Self-Employed,59700.0,11.9,Higher education,Employed,2800.0,0,19.4,No Past Due,1
+Male,Salary,50800.0,3.9,Higher education,Self-Employed,15900.0,2,5.6,No Past Due,1
+Male,Self-Employed,80700.0,0.5,Higher education,Employed,14200.0,2,3.5,No Past Due,1
+Male,Business,51000.0,4.9,Higher education,Self-Employed,23300.0,4,12.0,No Past Due,1
+Male,Salary,152000.0,2.4,Secondary / secondary special,Employed,4400.0,1,11.5,No Past Due,1
+Female,Salary,22200.0,1.0,Secondary / secondary special,Employed,21600.0,2,2.3,No Past Due,0
+Female,Pensioner,36900.0,11.3,Higher education,Employed,17500.0,2,19.6,Past Due,1
+Female,Salary,45700.0,4.4,Higher education,Self-Employed,5800.0,1,10.5,No Past Due,1
+Female,Self-Employed,62400.0,16.2,Secondary / secondary special,Employed,11800.0,1,22.1,Past Due,1
+Male,Self-Employed,98500.0,9.8,Higher education,Employed,2400.0,2,19.4,No Past Due,1
+Male,Salary,48400.0,1.2,Secondary / secondary special,Student,9000.0,0,8.9,No Past Due,1
+Female,Salary,22400.0,0.0,Higher education,Self-Employed,32000.0,4,8.7,No Past Due,0
+Male,Salary,77900.0,3.3,Higher education,Pensioner,8200.0,0,7.5,Past Due,1
+Female,Salary,74300.0,1.3,Secondary / secondary special,Employed,27400.0,1,7.3,Past Due,0
+Male,Salary,18000.0,14.5,Secondary / secondary special,Employed,13400.0,3,21.0,No Past Due,1
+Female,Pensioner,48900.0,1.2,Higher education,Pensioner,3200.0,1,5.1,Past Due,0
+Male,Salary,20400.0,2.0,Higher education,Employed,13100.0,1,8.1,No Past Due,1
+Female,Self-Employed,34000.0,4.4,Higher education,Self-Employed,10600.0,2,7.5,Past Due,0
+Female,Salary,29800.0,1.8,Higher education,Employed,7600.0,0,4.1,No Past Due,1
+Female,Commercial,76500.0,1.4,Higher education,Employed,1900.0,2,5.8,Past Due,0
+Male,Salary,52300.0,5.5,Lower secondary,Employed,8100.0,4,13.2,No Past Due,1
+Female,Salary,24200.0,0.6,Higher education,Employed,1100.0,1,9.8,No Past Due,1
+Female,Pensioner,79500.0,0.4,Secondary / secondary special,Employed,1600.0,1,5.5,No Past Due,1
+Female,Pensioner,22300.0,2.8,Secondary / secondary special,Employed,8100.0,3,9.6,No Past Due,0
+Female,Salary,58800.0,1.4,Secondary / secondary special,Student,5500.0,2,3.3,No Past Due,1
+Female,Pensioner,31300.0,4.9,Higher education,Employed,39000.0,2,14.0,No Past Due,1
+Male,Self-Employed,40100.0,3.3,Secondary / secondary special,Self-Employed,7100.0,2,9.4,No Past Due,1
+Female,Self-Employed,64700.0,0.0,Incomplete higher,Unemployed,21300.0,3,8.0,No Past Due,0
+Female,Salary,65300.0,2.7,Higher education,Employed,11300.0,1,10.8,No Past Due,1
+Female,Salary,102300.0,16.5,Higher education,Employed,18300.0,1,19.8,No Past Due,1
+Male,Business,46900.0,0.3,Secondary / secondary special,Self-Employed,4500.0,1,6.1,Past Due,0
+Male,Self-Employed,58000.0,6.7,Secondary / secondary special,Self-Employed,42700.0,2,16.3,No Past Due,1
+Female,Salary,38500.0,13.3,Secondary / secondary special,Self-Employed,11300.0,1,15.1,No Past Due,1
+Female,Business,54200.0,9.8,Secondary / secondary special,Self-Employed,26700.0,0,16.9,No Past Due,1
+Male,Business,62400.0,1.2,Secondary / secondary special,Student,6800.0,1,10.9,No Past Due,1
+Female,Salary,46400.0,2.1,Higher education,Employed,1600.0,3,5.8,No Past Due,1
+Male,Self-Employed,18200.0,7.6,Incomplete higher,Employed,16800.0,2,16.4,No Past Due,1
+Male,Salary,58800.0,0.5,Incomplete higher,Self-Employed,100.0,6,9.9,No Past Due,0
+Male,Business,59900.0,10.0,Higher education,Employed,9700.0,4,17.7,Past Due,0
+Male,Business,33700.0,7.6,Secondary / secondary special,Pensioner,3200.0,1,10.7,No Past Due,1
+Female,Commercial,24200.0,7.8,Incomplete higher,Employed,14800.0,1,11.8,No Past Due,1
+Male,Salary,110400.0,0.6,Incomplete higher,Employed,58300.0,1,1.9,No Past Due,1
+Female,Salary,64200.0,0.0,Secondary / secondary special,Unemployed,9400.0,2,8.5,No Past Due,0
+Female,Salary,43200.0,6.8,Higher education,Employed,25500.0,1,15.4,Past Due,0
+Female,Salary,26200.0,10.7,Secondary / secondary special,Employed,10600.0,8,17.4,No Past Due,0
+Female,Salary,31200.0,0.3,Higher education,Employed,10300.0,3,4.5,No Past Due,1
+Male,Pensioner,100400.0,0.0,Academic degree,Unemployed,40000.0,1,1.7,No Past Due,1
+Female,Salary,52900.0,2.8,Secondary / secondary special,Employed,33100.0,1,10.6,No Past Due,1
+Female,Salary,36200.0,0.0,Incomplete higher,Unemployed,23100.0,1,7.5,No Past Due,0
+Male,Business,64900.0,4.9,Higher education,Employed,5300.0,1,14.1,Past Due,1
+Female,Salary,31300.0,15.0,Lower secondary,Self-Employed,11800.0,1,22.6,Past Due,1
+Female,Business,111900.0,0.0,Secondary / secondary special,Unemployed,3800.0,1,8.5,Past Due,0
+Female,Salary,103200.0,11.2,Higher education,Employed,8800.0,1,18.9,Past Due,1
+Female,Self-Employed,37900.0,0.0,Secondary / secondary special,Employed,9900.0,1,6.7,No Past Due,1
+Female,Salary,34700.0,1.1,Secondary / secondary special,Employed,26700.0,3,5.9,No Past Due,0
+Male,Salary,18000.0,0.2,Secondary / secondary special,Self-Employed,34000.0,1,9.3,Past Due,0
+Female,Pensioner,21700.0,2.4,Lower secondary,Employed,8000.0,0,9.3,Past Due,0
+Female,Salary,23500.0,14.3,Higher education,Self-Employed,300.0,2,18.9,Past Due,1
+Male,Self-Employed,52800.0,0.6,Incomplete higher,Employed,29700.0,4,2.4,No Past Due,0
+Male,Salary,41000.0,5.6,Lower secondary,Employed,2900.0,3,9.2,No Past Due,1
+Male,Salary,23400.0,3.6,Secondary / secondary special,Employed,14600.0,1,9.5,Past Due,0
+Female,Pensioner,42000.0,16.7,Secondary / secondary special,Employed,400.0,0,20.2,No Past Due,1
+Female,Salary,64700.0,0.8,Secondary / secondary special,Employed,7700.0,1,3.8,Past Due,0
+Male,Business,65500.0,0.0,Secondary / secondary special,Unemployed,64000.0,3,5.7,No Past Due,0
+Female,Commercial,18000.0,0.2,Secondary / secondary special,Self-Employed,1600.0,0,2.7,No Past Due,1
+Male,Self-Employed,45700.0,3.4,Secondary / secondary special,Employed,8300.0,2,11.6,No Past Due,1
+Female,Commercial,22900.0,2.0,Secondary / secondary special,Pensioner,5500.0,2,7.4,Past Due,0
+Female,Salary,80500.0,12.2,Secondary / secondary special,Self-Employed,35300.0,3,18.4,No Past Due,1
+Female,Salary,75500.0,5.6,Secondary / secondary special,Pensioner,30500.0,1,7.9,No Past Due,1
+Male,Salary,29900.0,5.7,Secondary / secondary special,Employed,4100.0,4,9.6,Past Due,0
+Male,Business,32200.0,4.6,Lower secondary,Employed,1300.0,3,9.3,No Past Due,1
+Male,Commercial,38000.0,0.6,Higher education,Employed,14800.0,3,8.9,Past Due,0
+Male,Salary,18000.0,3.5,Lower secondary,Self-Employed,6200.0,2,11.4,No Past Due,1
+Female,Business,59000.0,40.0,Secondary / secondary special,Employed,16700.0,3,43.0,Past Due,1
+Female,Salary,42200.0,10.8,Secondary / secondary special,Employed,500.0,0,17.3,No Past Due,1
+Female,Self-Employed,83600.0,13.4,Higher education,Employed,2100.0,2,16.6,Past Due,1
+Female,Self-Employed,26800.0,10.4,Secondary / secondary special,Employed,17400.0,0,20.3,Past Due,0
+Female,Commercial,34900.0,0.7,Secondary / secondary special,Self-Employed,3600.0,1,10.3,No Past Due,1
+Female,Self-Employed,21400.0,1.5,Secondary / secondary special,Employed,29200.0,4,7.6,No Past Due,0
+Female,Salary,,0.0,Secondary / secondary special,Employed,900.0,2,7.3,No Past Due,1
+Female,Salary,25600.0,2.2,Secondary / secondary special,Self-Employed,3600.0,1,10.4,No Past Due,1
+Male,Salary,84800.0,0.7,Secondary / secondary special,Student,98100.0,2,8.2,Past Due,0
+Male,Salary,33400.0,3.8,Higher education,Self-Employed,8500.0,2,11.1,No Past Due,1
+Male,Salary,52500.0,6.8,Secondary / secondary special,Pensioner,18200.0,1,16.4,No Past Due,1
+Female,Pensioner,39800.0,12.5,Secondary / secondary special,Self-Employed,3000.0,3,18.9,No Past Due,1
+Female,Self-Employed,24400.0,8.3,Higher education,Employed,14100.0,4,15.0,Past Due,0
+Male,Self-Employed,44700.0,16.7,Secondary / secondary special,Employed,19400.0,3,25.3,Past Due,0
+Female,Salary,68200.0,0.3,Secondary / secondary special,Self-Employed,5700.0,0,7.3,No Past Due,1
+Female,Pensioner,25200.0,0.1,Incomplete higher,Self-Employed,26500.0,1,7.7,No Past Due,0
+Male,Business,76500.0,6.5,Secondary / secondary special,Self-Employed,13900.0,1,9.6,No Past Due,1
+Male,Salary,30700.0,2.0,Secondary / secondary special,Employed,7400.0,0,6.3,No Past Due,1
+Female,Business,37600.0,1.8,Secondary / secondary special,Employed,12200.0,0,4.1,No Past Due,1
+Female,Self-Employed,65600.0,2.4,Secondary / secondary special,Employed,12900.0,3,8.0,No Past Due,1
+Female,Salary,34000.0,1.9,Higher education,Employed,2700.0,0,7.0,No Past Due,1
+Female,Self-Employed,50000.0,4.3,Higher education,Employed,7700.0,2,14.3,No Past Due,1
+Female,Self-Employed,41200.0,0.0,Secondary / secondary special,Unemployed,6300.0,4,6.5,No Past Due,0
+Female,Salary,52600.0,4.3,Higher education,Employed,7700.0,1,12.4,No Past Due,1
+Female,Commercial,18000.0,6.7,Higher education,Employed,21500.0,1,10.7,No Past Due,1
+Female,Pensioner,18000.0,2.9,Secondary / secondary special,Employed,9900.0,1,11.4,Past Due,0
+Male,Business,68800.0,1.7,Higher education,Self-Employed,42300.0,4,8.2,No Past Due,1
+Male,Self-Employed,86700.0,1.1,Secondary / secondary special,Employed,5200.0,4,8.4,No Past Due,1
+Male,Salary,29700.0,2.6,Secondary / secondary special,Employed,8100.0,2,6.2,No Past Due,1
+Female,Business,42900.0,8.1,Secondary / secondary special,Employed,23200.0,1,14.0,Past Due,0
+Female,Self-Employed,,8.5,Secondary / secondary special,Employed,11800.0,1,15.2,Past Due,0
+Female,Salary,71800.0,6.6,Secondary / secondary special,Pensioner,11900.0,6,12.9,No Past Due,1
+Male,Self-Employed,18000.0,1.6,Higher education,Pensioner,800.0,4,10.8,No Past Due,1
+Male,Pensioner,30100.0,5.3,Secondary / secondary special,Employed,7600.0,2,14.4,No Past Due,1
+Male,Self-Employed,40800.0,5.1,Secondary / secondary special,Employed,4700.0,1,14.8,No Past Due,1
+Male,Salary,72200.0,4.0,Secondary / secondary special,Self-Employed,109700.0,2,11.0,No Past Due,0
+Female,Business,193700.0,4.8,Higher education,Employed,5500.0,2,14.5,No Past Due,1
+Male,Salary,43200.0,4.1,Higher education,Employed,32400.0,1,12.6,No Past Due,1
+Male,Salary,22600.0,5.0,Higher education,Employed,16900.0,0,8.4,No Past Due,1
+Female,Salary,61200.0,7.5,Higher education,Pensioner,6300.0,0,12.3,No Past Due,1
+Male,Salary,101400.0,0.7,Incomplete higher,Employed,11800.0,1,3.8,No Past Due,1
+Female,Business,52000.0,8.3,Secondary / secondary special,Employed,27500.0,2,9.3,No Past Due,1
+Female,Self-Employed,29800.0,0.9,Higher education,Self-Employed,32200.0,3,3.6,No Past Due,0
+Male,Salary,83000.0,0.4,Higher education,Employed,2600.0,0,1.4,No Past Due,1
+Female,Pensioner,70600.0,22.4,Academic degree,Employed,6200.0,0,29.9,Past Due,1
+Female,Pensioner,27900.0,1.2,Incomplete higher,Student,6100.0,4,6.0,No Past Due,0
+Female,Pensioner,60500.0,0.4,Secondary / secondary special,Employed,600.0,5,4.2,No Past Due,0
+Male,Salary,84800.0,3.5,Secondary / secondary special,Self-Employed,13700.0,2,11.4,Past Due,0
+Female,Self-Employed,93900.0,1.2,Secondary / secondary special,Employed,28900.0,1,9.7,No Past Due,1
+Female,Commercial,47300.0,4.0,Higher education,Employed,7200.0,1,13.8,No Past Due,1
+Male,Business,40300.0,10.6,Secondary / secondary special,Employed,20200.0,2,17.4,No Past Due,1
+Male,Salary,96300.0,18.0,Secondary / secondary special,Employed,14800.0,1,23.2,Past Due,1
+Female,Salary,25200.0,6.0,Higher education,Employed,7100.0,2,9.7,Past Due,0
+Female,Self-Employed,62400.0,0.0,Secondary / secondary special,Unemployed,2300.0,0,3.0,No Past Due,1
+Male,Pensioner,23100.0,5.5,Incomplete higher,Employed,18500.0,0,8.4,No Past Due,1
+Female,Self-Employed,88100.0,2.2,Secondary / secondary special,Employed,28900.0,3,6.9,No Past Due,1
+Male,Self-Employed,42500.0,14.4,Secondary / secondary special,Employed,17400.0,2,24.3,No Past Due,1
+Male,Salary,98500.0,12.3,Secondary / secondary special,Self-Employed,300.0,2,13.3,No Past Due,1
+Male,Business,64200.0,4.9,Higher education,Employed,3700.0,0,7.7,No Past Due,1
+Male,Pensioner,25000.0,2.4,Secondary / secondary special,Employed,1100.0,0,5.1,No Past Due,1
+Male,Salary,107300.0,2.1,Secondary / secondary special,Employed,12700.0,1,9.6,Past Due,0
+Male,Business,115100.0,0.2,Lower secondary,Employed,21200.0,1,4.4,No Past Due,1
+Female,Commercial,79600.0,10.2,Secondary / secondary special,Employed,1800.0,0,15.3,No Past Due,1
+Male,Salary,32200.0,0.0,Higher education,Unemployed,27300.0,2,2.3,No Past Due,0
+Male,Self-Employed,41400.0,2.4,Higher education,Employed,12200.0,3,7.0,Past Due,0
+Female,Salary,53100.0,3.8,Secondary / secondary special,Employed,17600.0,2,5.7,No Past Due,1
+Male,Business,33300.0,10.2,Higher education,Employed,53300.0,5,16.0,No Past Due,0
+Female,Self-Employed,124300.0,0.0,Secondary / secondary special,Unemployed,1300.0,4,1.9,No Past Due,0
+Male,Self-Employed,53100.0,11.7,Higher education,Employed,34700.0,2,19.8,No Past Due,1
+Male,Business,18000.0,13.7,Secondary / secondary special,Employed,2000.0,1,19.8,Past Due,1
+Male,Salary,59100.0,17.6,Higher education,Employed,7500.0,1,25.1,No Past Due,1
+Male,Pensioner,,3.0,Secondary / secondary special,Employed,28600.0,2,7.8,No Past Due,0
+Male,Self-Employed,,1.5,Higher education,Employed,35500.0,2,5.9,No Past Due,1
+Male,Salary,40000.0,2.8,Secondary / secondary special,Employed,10600.0,3,4.7,No Past Due,1
+Male,Business,76400.0,2.4,Secondary / secondary special,Employed,13500.0,2,8.1,Past Due,0
+Male,Business,90700.0,1.2,Secondary / secondary special,Employed,18500.0,0,6.8,No Past Due,1
+Male,Salary,57300.0,5.6,Secondary / secondary special,Employed,26800.0,3,10.8,No Past Due,1
+Male,Pensioner,40700.0,3.9,Higher education,Employed,1900.0,6,11.6,No Past Due,1
+Male,Pensioner,47900.0,12.0,Secondary / secondary special,Employed,24900.0,2,20.5,No Past Due,1
+Female,Salary,49600.0,0.2,Incomplete higher,Self-Employed,9800.0,2,8.0,Past Due,0
+Female,Commercial,31500.0,2.5,Lower secondary,Student,9000.0,1,4.8,No Past Due,1
+Male,Salary,67400.0,0.7,Higher education,Student,8300.0,1,7.3,Past Due,0
+Female,Salary,63100.0,0.0,Secondary / secondary special,Unemployed,10700.0,2,1.7,Past Due,0
+Female,Salary,114400.0,13.0,Secondary / secondary special,Self-Employed,43500.0,1,20.3,No Past Due,1
+Male,Pensioner,97800.0,7.8,Higher education,Self-Employed,11900.0,1,12.2,No Past Due,1
+Female,Business,33600.0,15.8,Secondary / secondary special,Employed,45900.0,0,18.0,No Past Due,1
+Female,Salary,77000.0,2.4,Secondary / secondary special,Self-Employed,3000.0,1,11.2,No Past Due,1
+Male,Salary,29100.0,4.2,Higher education,Employed,19300.0,2,10.7,No Past Due,1
+Male,Self-Employed,71900.0,0.1,Higher education,Employed,25100.0,3,4.3,No Past Due,1
+Female,Salary,36900.0,0.0,Higher education,Self-Employed,17100.0,0,1.3,No Past Due,1
+Female,Pensioner,27900.0,1.6,Secondary / secondary special,Employed,14000.0,2,7.4,No Past Due,0
+Male,Pensioner,57200.0,0.6,Higher education,Employed,12500.0,2,9.9,No Past Due,1
+Male,Self-Employed,18000.0,1.8,Secondary / secondary special,Pensioner,29600.0,2,8.2,No Past Due,0
+Male,Commercial,18700.0,1.2,Secondary / secondary special,Employed,25900.0,0,10.9,No Past Due,0
+Female,Salary,44500.0,0.2,Incomplete higher,Employed,2000.0,2,2.4,No Past Due,1
+Female,Commercial,51300.0,14.4,Secondary / secondary special,Pensioner,28300.0,3,20.5,Past Due,0
+Male,Business,40000.0,0.0,Secondary / secondary special,Self-Employed,8000.0,2,8.2,No Past Due,1
+Male,Self-Employed,20600.0,8.0,Secondary / secondary special,Employed,4400.0,0,13.7,Past Due,0
+Female,Salary,31300.0,1.0,Incomplete higher,Employed,30600.0,0,2.8,No Past Due,0
+Male,Pensioner,60800.0,14.6,Higher education,Employed,8500.0,3,20.8,No Past Due,1
+Male,Salary,67500.0,0.0,Higher education,Unemployed,24800.0,5,6.5,No Past Due,0
+Female,Salary,48600.0,6.4,Higher education,Employed,4600.0,0,14.0,No Past Due,1
+Female,Salary,92600.0,6.7,Secondary / secondary special,Employed,100.0,0,14.6,No Past Due,1
+Female,Self-Employed,61000.0,0.0,Secondary / secondary special,Employed,10300.0,1,7.9,No Past Due,1
+Female,Self-Employed,32500.0,25.1,Secondary / secondary special,Employed,1600.0,2,32.1,No Past Due,1
+Male,Business,42000.0,0.0,Secondary / secondary special,Student,21100.0,1,2.9,No Past Due,1
+Male,Pensioner,22700.0,13.5,Secondary / secondary special,Employed,4800.0,2,18.1,No Past Due,1
+Female,Salary,46200.0,6.5,Incomplete higher,Self-Employed,8800.0,4,14.5,Past Due,0
+Male,Business,90400.0,2.5,Secondary / secondary special,Employed,1400.0,1,12.1,No Past Due,1
+Male,Salary,71500.0,13.4,Secondary / secondary special,Self-Employed,5100.0,1,15.1,No Past Due,1
+Male,Pensioner,106000.0,2.1,Secondary / secondary special,Pensioner,22800.0,2,7.9,No Past Due,1
+Male,Pensioner,41500.0,5.0,Secondary / secondary special,Employed,2500.0,2,8.8,Past Due,0
+Male,Self-Employed,102800.0,0.6,Incomplete higher,Employed,15600.0,3,3.6,Past Due,0
+Male,Business,44100.0,15.3,Secondary / secondary special,Employed,37400.0,0,20.9,No Past Due,1
+Male,Salary,110100.0,0.9,Secondary / secondary special,Self-Employed,17100.0,2,7.4,Past Due,0
+Male,Self-Employed,48400.0,1.5,Higher education,Employed,25000.0,0,2.6,No Past Due,1
+Female,Pensioner,,0.0,Secondary / secondary special,Unemployed,1700.0,0,8.0,No Past Due,1
+Female,Self-Employed,110300.0,8.7,Secondary / secondary special,Self-Employed,4300.0,3,17.1,Past Due,1
+Female,Salary,44100.0,5.8,Secondary / secondary special,Pensioner,33700.0,5,15.5,Past Due,0
+Female,Self-Employed,55300.0,1.6,Higher education,Self-Employed,18800.0,2,4.2,No Past Due,1
+Female,Pensioner,99600.0,0.0,Academic degree,Employed,15300.0,0,6.4,Past Due,1
+Male,Salary,45600.0,8.5,Higher education,Employed,16300.0,3,13.3,No Past Due,1
+Female,Salary,23700.0,25.3,Secondary / secondary special,Employed,8000.0,0,29.3,Past Due,1
+Female,Business,159300.0,10.0,Higher education,Pensioner,700.0,0,16.1,No Past Due,1
+Female,Pensioner,37900.0,3.7,Secondary / secondary special,Self-Employed,23000.0,0,11.7,No Past Due,1
+Male,Salary,53500.0,14.0,Secondary / secondary special,Self-Employed,17000.0,1,15.2,No Past Due,1
+Male,Salary,92600.0,3.2,Secondary / secondary special,Employed,9600.0,3,12.9,No Past Due,1
+Male,Salary,35100.0,4.5,Secondary / secondary special,Employed,34500.0,2,12.8,No Past Due,0
+Male,Salary,28200.0,3.9,Higher education,Self-Employed,6100.0,0,11.7,No Past Due,1
+Female,Self-Employed,56400.0,3.6,Higher education,Employed,5200.0,0,11.4,No Past Due,1
+Female,Business,,9.0,Incomplete higher,Employed,30900.0,0,13.5,No Past Due,0
+Male,Business,41800.0,4.5,Higher education,Self-Employed,23900.0,0,12.3,No Past Due,1
+Female,Self-Employed,56100.0,2.3,,Employed,10900.0,1,6.8,No Past Due,1
+Female,Salary,42300.0,1.8,Secondary / secondary special,Employed,2100.0,5,10.9,No Past Due,0
+Male,Pensioner,21000.0,0.2,Secondary / secondary special,Employed,3600.0,1,2.8,No Past Due,1
+Male,Self-Employed,117800.0,5.3,Higher education,Employed,16000.0,4,8.9,Past Due,1
+Male,Commercial,51900.0,1.6,Secondary / secondary special,Student,7300.0,0,7.6,Past Due,0
+Male,Self-Employed,107700.0,1.0,Higher education,Employed,27200.0,3,4.9,No Past Due,1
+Male,Salary,42500.0,6.4,Secondary / secondary special,Employed,44900.0,5,11.2,No Past Due,0
+Male,Business,30200.0,6.9,Secondary / secondary special,Employed,24600.0,1,12.3,No Past Due,1
+Male,Salary,56800.0,8.4,Secondary / secondary special,Self-Employed,7100.0,0,17.1,No Past Due,1
+Male,Business,43500.0,4.2,Secondary / secondary special,Employed,23300.0,3,9.9,No Past Due,1
+Female,Salary,25600.0,13.5,Secondary / secondary special,Employed,6500.0,1,17.8,Past Due,0
+Male,Salary,110000.0,16.5,Higher education,Employed,2700.0,1,19.7,No Past Due,1
+Female,Pensioner,34800.0,9.9,Secondary / secondary special,Employed,500.0,2,14.6,No Past Due,1
+Male,Salary,18000.0,6.1,Higher education,Employed,7300.0,1,11.7,No Past Due,1
+Female,Pensioner,101800.0,0.0,Secondary / secondary special,Unemployed,35100.0,1,7.7,Past Due,0
+Male,Salary,37100.0,24.4,Secondary / secondary special,Pensioner,4100.0,1,26.5,No Past Due,1
+Male,Self-Employed,35100.0,1.9,Secondary / secondary special,Employed,3500.0,4,4.9,No Past Due,0
+Female,Business,18600.0,1.4,Higher education,Employed,52500.0,3,5.8,No Past Due,0
+Female,Self-Employed,127700.0,3.5,Secondary / secondary special,Pensioner,400.0,0,7.7,No Past Due,1
+Female,Salary,24100.0,0.4,Higher education,Employed,23100.0,2,4.9,No Past Due,0
+Male,Salary,50600.0,0.0,Secondary / secondary special,Unemployed,5800.0,1,8.1,No Past Due,0
+Male,Salary,81000.0,5.3,Higher education,Employed,600.0,1,9.2,Past Due,1
+Female,Salary,61800.0,4.9,Secondary / secondary special,Pensioner,37500.0,3,10.4,No Past Due,1
+Female,Business,47400.0,6.4,Higher education,Self-Employed,2300.0,2,13.0,No Past Due,1
+Female,Commercial,19200.0,4.1,Higher education,Pensioner,12000.0,1,7.2,No Past Due,1
+Female,Pensioner,31400.0,0.2,Incomplete higher,Self-Employed,4800.0,1,7.7,No Past Due,1
+Male,Business,54400.0,5.7,Secondary / secondary special,Employed,1000.0,1,11.6,No Past Due,1
+Female,Business,31800.0,7.6,Secondary / secondary special,Pensioner,800.0,1,12.6,No Past Due,1
+Male,Business,54800.0,3.2,Secondary / secondary special,Employed,1800.0,1,11.5,No Past Due,1
+Male,Salary,71300.0,8.5,Higher education,Employed,1100.0,2,11.7,Past Due,1
+Male,Pensioner,83200.0,1.5,Higher education,Self-Employed,21400.0,2,10.4,No Past Due,1
+Female,Business,25000.0,1.5,Higher education,Self-Employed,10000.0,0,7.5,No Past Due,1
+Male,Self-Employed,164100.0,1.1,Secondary / secondary special,Pensioner,6300.0,1,7.6,Past Due,1
+Male,Salary,74800.0,2.8,Secondary / secondary special,Employed,8100.0,0,11.7,No Past Due,1
+Female,Salary,49000.0,11.3,Secondary / secondary special,Self-Employed,39700.0,0,19.7,No Past Due,1
+Male,Self-Employed,89300.0,10.6,Lower secondary,Self-Employed,36200.0,4,17.0,No Past Due,1
+Female,Pensioner,180000.0,2.9,Higher education,Employed,18900.0,1,10.7,No Past Due,1
+Male,Self-Employed,22200.0,5.3,Lower secondary,Employed,32400.0,0,10.2,Past Due,0
+Female,Salary,43300.0,7.7,Secondary / secondary special,Employed,5800.0,0,13.6,No Past Due,1
+Female,Commercial,18000.0,1.7,Higher education,Employed,7200.0,0,3.3,No Past Due,1
+Male,Salary,54500.0,1.1,Higher education,Student,14300.0,0,2.9,No Past Due,1
+Male,Salary,59900.0,21.5,Secondary / secondary special,Self-Employed,14700.0,1,30.0,No Past Due,1
+Male,Salary,48000.0,5.8,Higher education,Self-Employed,9900.0,4,7.3,No Past Due,1
+Male,Business,34200.0,2.0,Lower secondary,Student,7700.0,1,4.5,No Past Due,1
+Female,Pensioner,18000.0,2.5,Incomplete higher,Employed,64200.0,0,10.7,Past Due,0
+Male,Salary,60200.0,0.0,Higher education,Unemployed,25800.0,2,1.0,Past Due,0
+Female,Pensioner,109200.0,1.5,Secondary / secondary special,Employed,8600.0,0,5.0,No Past Due,1
+Male,Salary,35400.0,0.0,Secondary / secondary special,Unemployed,19500.0,1,6.3,No Past Due,0
+Female,Pensioner,62400.0,4.3,,Employed,4700.0,1,10.7,Past Due,0
+Female,Business,20700.0,2.3,Secondary / secondary special,Pensioner,1600.0,1,10.3,No Past Due,1
+Female,Pensioner,63000.0,1.1,Higher education,Employed,6500.0,1,6.7,No Past Due,1
+Male,Salary,39500.0,1.8,Higher education,Employed,7700.0,2,7.4,No Past Due,1
+Male,Commercial,32200.0,0.2,Higher education,Self-Employed,300.0,6,7.7,Past Due,0
+Male,Business,32300.0,7.3,Academic degree,Employed,25300.0,6,12.8,Past Due,0
+Female,Salary,,4.1,Secondary / secondary special,Self-Employed,6700.0,6,10.6,No Past Due,0
+Female,Pensioner,60500.0,0.6,Secondary / secondary special,Employed,13000.0,0,9.7,No Past Due,1
+Female,Salary,23800.0,1.1,Secondary / secondary special,Self-Employed,1200.0,2,5.7,No Past Due,1
+Male,Pensioner,39400.0,0.6,Secondary / secondary special,Employed,2900.0,0,5.1,No Past Due,1
+Female,Salary,47900.0,5.7,Secondary / secondary special,Employed,33100.0,4,6.7,No Past Due,0
+Female,Business,26800.0,0.6,Secondary / secondary special,Employed,14100.0,1,7.1,Past Due,0
+Male,Self-Employed,131700.0,8.4,Higher education,Employed,45000.0,1,9.7,No Past Due,1
+Male,Salary,30700.0,0.1,Lower secondary,Employed,100300.0,3,5.6,Past Due,0
+Female,Salary,33900.0,1.7,Secondary / secondary special,Employed,7000.0,0,9.9,No Past Due,1
+Female,Salary,28600.0,13.3,Secondary / secondary special,Employed,5300.0,1,19.2,No Past Due,1
+Female,Self-Employed,131800.0,7.6,Incomplete higher,Employed,29300.0,0,11.0,No Past Due,1
+Male,Salary,66400.0,0.5,Secondary / secondary special,Employed,98700.0,1,8.6,No Past Due,0
+Female,Self-Employed,29300.0,10.3,Secondary / secondary special,Pensioner,14900.0,2,13.7,No Past Due,1
+Male,Salary,90100.0,4.1,Secondary / secondary special,Employed,23800.0,0,11.7,Past Due,0
+Male,Salary,54700.0,11.3,Higher education,Employed,22800.0,3,17.8,Past Due,1
+Male,Business,56500.0,5.5,Secondary / secondary special,Self-Employed,6600.0,2,8.0,No Past Due,1
+Female,Salary,40600.0,6.9,Lower secondary,Employed,12800.0,5,16.0,No Past Due,1
+Female,Pensioner,32500.0,30.2,Secondary / secondary special,Self-Employed,26900.0,3,33.0,Past Due,1
+Female,Pensioner,59000.0,1.6,Higher education,Employed,17500.0,3,11.5,No Past Due,1
+Male,Business,36300.0,5.9,Secondary / secondary special,Employed,300.0,1,7.0,No Past Due,1
+Female,Self-Employed,133100.0,3.7,,Employed,6200.0,2,7.1,No Past Due,1
+Male,Pensioner,24400.0,0.2,Higher education,Self-Employed,2300.0,4,3.0,Past Due,0
+Female,Salary,114100.0,0.1,Higher education,Self-Employed,4000.0,2,1.2,No Past Due,1
+Male,Salary,46100.0,0.8,Higher education,Employed,35400.0,1,8.4,No Past Due,1
+Male,Salary,57800.0,6.3,Higher education,Employed,600.0,2,13.5,Past Due,1
+Male,Business,77500.0,0.6,Incomplete higher,Student,3700.0,5,8.7,No Past Due,1
+Male,Salary,34700.0,4.8,Higher education,Employed,5600.0,3,8.1,No Past Due,1
+Female,Self-Employed,78900.0,0.2,Higher education,Employed,14400.0,1,5.2,No Past Due,1
+Female,Commercial,18000.0,3.8,Secondary / secondary special,Pensioner,11500.0,4,10.7,Past Due,0
+Male,Pensioner,33000.0,15.5,Secondary / secondary special,Self-Employed,3700.0,0,20.5,No Past Due,1
+Female,Self-Employed,29500.0,3.0,Secondary / secondary special,Employed,2700.0,2,10.3,Past Due,0
+Male,Salary,24600.0,5.9,Higher education,Self-Employed,4100.0,2,12.6,No Past Due,1
+Female,Pensioner,43600.0,0.0,Secondary / secondary special,Unemployed,10500.0,2,2.0,No Past Due,0
+Female,Self-Employed,60600.0,9.2,Secondary / secondary special,Employed,4700.0,3,17.2,Past Due,0
+Female,Salary,72100.0,4.4,Incomplete higher,Employed,44200.0,2,11.9,No Past Due,1
+Male,Salary,56000.0,11.7,Incomplete higher,Employed,9400.0,0,18.6,No Past Due,1
+Female,Pensioner,34000.0,3.0,Incomplete higher,Student,900.0,1,5.4,No Past Due,1
+Female,Business,60100.0,13.2,Secondary / secondary special,Self-Employed,19600.0,1,16.6,No Past Due,1
+Male,Pensioner,52500.0,1.6,Higher education,Employed,6000.0,1,6.1,No Past Due,1
+Male,Pensioner,82000.0,0.0,Secondary / secondary special,Unemployed,15900.0,2,3.5,No Past Due,0
+Female,Self-Employed,75200.0,0.3,Secondary / secondary special,Employed,4900.0,2,3.4,No Past Due,1
+Female,Self-Employed,49800.0,9.5,Secondary / secondary special,Employed,12700.0,0,17.7,Past Due,1
+Female,Salary,29900.0,3.2,Secondary / secondary special,Employed,22200.0,3,9.9,No Past Due,0
+Female,Salary,34200.0,1.6,Secondary / secondary special,Employed,39500.0,1,7.7,Past Due,0
+Female,Salary,36200.0,0.0,Higher education,Unemployed,4500.0,2,3.0,No Past Due,0
+Male,Business,41200.0,13.9,Secondary / secondary special,Employed,6100.0,1,23.2,No Past Due,1
+Male,Self-Employed,56800.0,0.0,Higher education,Unemployed,9400.0,2,2.7,No Past Due,0
+Male,Pensioner,72600.0,4.8,Higher education,Employed,39300.0,4,13.0,No Past Due,1
+Female,Salary,47700.0,5.7,Secondary / secondary special,Employed,34700.0,1,15.4,No Past Due,1
+Male,Self-Employed,49500.0,3.9,Secondary / secondary special,Student,1400.0,1,11.4,Past Due,0
+Female,Self-Employed,53000.0,3.0,Secondary / secondary special,Employed,2100.0,3,12.9,Past Due,0
+Female,Self-Employed,36900.0,14.8,Higher education,Employed,10300.0,3,21.7,Past Due,1
+Female,Business,29500.0,0.8,Secondary / secondary special,Employed,1700.0,1,3.8,No Past Due,1
+Male,Salary,18700.0,0.0,Secondary / secondary special,Unemployed,6400.0,2,2.8,Past Due,0
+Female,Self-Employed,33400.0,2.5,Secondary / secondary special,Employed,2400.0,2,6.4,No Past Due,1
+Male,Salary,63600.0,4.1,Higher education,Employed,15200.0,2,5.2,No Past Due,1
+Female,Salary,33300.0,3.7,Incomplete higher,Employed,44800.0,1,10.8,Past Due,0
+Male,Self-Employed,43000.0,4.4,Secondary / secondary special,Employed,85900.0,2,7.8,No Past Due,0
+Male,Business,63400.0,0.9,Higher education,Self-Employed,7100.0,1,9.2,No Past Due,1
+Female,Commercial,65300.0,4.3,Higher education,Employed,13700.0,1,8.5,No Past Due,1
+Male,Self-Employed,27100.0,1.7,Lower secondary,Employed,29100.0,2,7.0,No Past Due,0
+Male,Business,84800.0,1.2,Higher education,Employed,1900.0,2,10.9,No Past Due,1
+Female,Self-Employed,91100.0,0.4,Higher education,Employed,17500.0,0,3.6,No Past Due,1
+Female,Self-Employed,26300.0,8.6,Higher education,Pensioner,7900.0,3,16.1,Past Due,0
+Female,Salary,31200.0,3.3,Incomplete higher,Employed,3500.0,3,11.1,No Past Due,1
+Female,Salary,94400.0,2.7,Secondary / secondary special,Student,7700.0,1,5.7,No Past Due,1
+Female,Salary,45200.0,7.8,Secondary / secondary special,Employed,1200.0,3,13.3,No Past Due,1
+Male,Self-Employed,18000.0,6.8,Secondary / secondary special,Employed,17800.0,4,11.0,No Past Due,0
+Male,Salary,22700.0,3.8,Higher education,Pensioner,4400.0,3,11.7,No Past Due,1
+Male,Salary,42700.0,2.9,Higher education,Employed,5600.0,3,9.5,No Past Due,1
+Female,Salary,25900.0,2.8,Secondary / secondary special,Self-Employed,1900.0,1,8.1,Past Due,0
+Female,Commercial,39100.0,2.6,Higher education,Student,30000.0,0,10.6,Past Due,0
+Male,Salary,49900.0,4.1,Secondary / secondary special,Employed,10200.0,2,7.2,Past Due,0
+Male,Self-Employed,109600.0,11.3,Secondary / secondary special,Employed,12700.0,2,19.1,Past Due,1
+Female,Salary,41800.0,12.5,Academic degree,Self-Employed,12600.0,1,21.3,No Past Due,1
+Male,Self-Employed,88400.0,1.1,Secondary / secondary special,Employed,7900.0,4,10.0,Past Due,0
+Female,Salary,107600.0,0.9,Secondary / secondary special,Employed,3200.0,5,9.0,No Past Due,1
+Female,Salary,107900.0,6.0,Higher education,Employed,20500.0,1,10.7,No Past Due,1
+Female,Self-Employed,57300.0,2.2,Higher education,Employed,2000.0,3,12.0,No Past Due,1
+Male,Salary,18000.0,0.1,Secondary / secondary special,Self-Employed,1600.0,3,4.5,No Past Due,0
+Female,Salary,63200.0,13.2,Higher education,Employed,18600.0,5,19.9,No Past Due,1
+Female,Salary,87300.0,1.5,Higher education,Employed,3500.0,2,3.9,Past Due,0
+Female,Salary,46900.0,15.9,Secondary / secondary special,Self-Employed,5500.0,2,25.7,No Past Due,1
+Female,Salary,128000.0,7.6,Secondary / secondary special,Employed,9700.0,3,14.9,No Past Due,1
+Female,Salary,78700.0,8.6,Higher education,Employed,8900.0,2,16.4,No Past Due,1
+Female,Pensioner,67000.0,1.3,Secondary / secondary special,Self-Employed,18500.0,2,2.9,No Past Due,1
+Male,Self-Employed,89100.0,1.6,Lower secondary,Employed,14600.0,2,9.5,No Past Due,1
+Female,Self-Employed,58900.0,4.4,Higher education,Self-Employed,15500.0,1,12.4,No Past Due,1
+Female,Salary,18000.0,1.1,,Pensioner,18800.0,4,8.1,No Past Due,0
+Male,Commercial,37300.0,2.2,Secondary / secondary special,Employed,5200.0,2,5.8,No Past Due,1
+Female,Salary,94700.0,2.3,Lower secondary,Employed,5800.0,4,7.7,Past Due,0
+Female,Salary,31400.0,1.0,Secondary / secondary special,Employed,8600.0,2,3.0,No Past Due,1
+Female,Self-Employed,43400.0,1.4,Secondary / secondary special,Employed,5500.0,4,6.6,No Past Due,0
+Male,Salary,27600.0,9.3,Secondary / secondary special,Pensioner,62900.0,4,12.5,No Past Due,0
+Male,Salary,130800.0,1.1,Secondary / secondary special,Pensioner,25200.0,0,5.2,No Past Due,1
+Female,Self-Employed,123600.0,0.2,Higher education,Employed,2700.0,1,2.7,Past Due,1
+Female,Pensioner,30100.0,6.0,Secondary / secondary special,Self-Employed,100.0,2,9.1,No Past Due,1
+Male,Self-Employed,53200.0,22.4,Secondary / secondary special,Pensioner,700.0,2,24.1,No Past Due,1
+Female,Business,33700.0,2.4,Higher education,Student,4200.0,1,11.7,Past Due,0
+Female,Commercial,68700.0,0.8,Secondary / secondary special,Employed,1800.0,0,6.6,No Past Due,1
+Female,Salary,64900.0,5.1,Higher education,Employed,11400.0,1,9.7,No Past Due,1
+Female,Salary,76600.0,14.2,,Employed,29300.0,3,20.0,No Past Due,1
+Male,Salary,58800.0,9.2,Higher education,Pensioner,20000.0,1,15.9,Past Due,1
+Male,Salary,246300.0,5.8,Higher education,Employed,3600.0,1,15.1,Past Due,1
+Male,Salary,27900.0,2.3,Secondary / secondary special,Employed,7600.0,3,4.9,No Past Due,0
+Female,Pensioner,19100.0,4.7,Secondary / secondary special,Employed,10600.0,1,8.4,No Past Due,1
+Male,Business,39500.0,0.6,Secondary / secondary special,Employed,24900.0,2,10.4,No Past Due,0
+Male,Self-Employed,20700.0,6.8,Higher education,Employed,27400.0,1,11.1,Past Due,0
+Male,Salary,21600.0,0.2,Secondary / secondary special,Student,36100.0,1,1.4,Past Due,0
+Female,Pensioner,28300.0,20.1,Secondary / secondary special,Employed,10700.0,2,22.4,No Past Due,1
+Female,Commercial,29500.0,1.8,Secondary / secondary special,Employed,17800.0,3,3.0,Past Due,0
+Male,Pensioner,29000.0,0.1,Secondary / secondary special,Employed,1800.0,2,10.0,No Past Due,1
+Male,Salary,65200.0,4.7,Secondary / secondary special,Employed,12500.0,0,8.2,No Past Due,1
+Female,Self-Employed,37100.0,7.4,Higher education,Employed,4300.0,1,16.7,No Past Due,1
+Male,Salary,44400.0,9.4,Secondary / secondary special,Employed,8500.0,2,19.4,No Past Due,1
+Male,Salary,80200.0,1.3,Secondary / secondary special,Employed,15100.0,0,7.7,Past Due,0
+Male,Salary,32200.0,1.8,Higher education,Employed,4500.0,2,3.1,No Past Due,1
+Male,Self-Employed,42400.0,4.3,Higher education,Employed,800.0,2,6.0,No Past Due,1
+Male,Business,59900.0,2.4,Secondary / secondary special,Employed,200.0,1,7.7,Past Due,0
+Female,Salary,18000.0,0.3,Secondary / secondary special,Student,300.0,7,5.0,Past Due,0
+Male,Salary,18000.0,3.9,Secondary / secondary special,Pensioner,100.0,0,10.4,No Past Due,1
+Female,Self-Employed,59300.0,9.6,Lower secondary,Employed,1800.0,2,14.5,No Past Due,1
+Male,Salary,64300.0,5.2,Secondary / secondary special,Employed,4100.0,0,14.6,No Past Due,1
+Female,Salary,152600.0,8.9,Lower secondary,Pensioner,3800.0,4,14.7,No Past Due,1
+Female,Salary,53500.0,2.4,Higher education,Employed,64900.0,2,9.6,Past Due,0
+Male,Business,76900.0,0.0,Higher education,Unemployed,5500.0,2,9.1,Past Due,0
+Female,Salary,44000.0,1.9,Secondary / secondary special,Pensioner,2000.0,0,4.2,No Past Due,1
+Male,Salary,57700.0,4.7,Secondary / secondary special,Employed,11800.0,2,7.8,No Past Due,1
+Female,Salary,122600.0,1.4,Secondary / secondary special,Employed,29300.0,2,3.4,No Past Due,1
+Male,Commercial,,3.9,Secondary / secondary special,Student,17000.0,4,6.2,Past Due,0
+Male,Business,61500.0,2.3,Higher education,Employed,5300.0,2,7.9,No Past Due,1
+Male,Business,158700.0,1.9,Lower secondary,Employed,12400.0,2,5.8,No Past Due,1
+Female,Salary,57200.0,20.5,Higher education,Employed,18800.0,2,25.3,No Past Due,1
+Female,Self-Employed,121500.0,1.0,Higher education,Employed,19500.0,0,10.8,No Past Due,1
+Female,Salary,34700.0,9.3,Secondary / secondary special,Self-Employed,16500.0,4,11.7,No Past Due,1
+Male,Self-Employed,48200.0,24.9,Secondary / secondary special,Self-Employed,30700.0,2,30.8,No Past Due,1
+Female,Pensioner,49900.0,0.1,Secondary / secondary special,Student,30600.0,6,2.0,Past Due,0
+Male,Self-Employed,18000.0,7.2,Higher education,Employed,13000.0,3,11.1,Past Due,0
+Female,Pensioner,25800.0,1.7,Lower secondary,Employed,8400.0,2,7.4,Past Due,0
+Male,Business,26800.0,0.2,Higher education,Employed,15400.0,2,9.7,No Past Due,1
+Male,Salary,77000.0,3.1,Secondary / secondary special,Employed,25600.0,2,7.6,No Past Due,1
+Male,Pensioner,79200.0,16.4,Secondary / secondary special,Employed,100.0,5,18.0,No Past Due,1
+Male,Salary,58600.0,0.1,Higher education,Student,72400.0,0,4.6,No Past Due,1
+Female,Self-Employed,77100.0,0.0,Secondary / secondary special,Unemployed,3000.0,1,2.3,Past Due,0
+Male,Salary,,4.2,Higher education,Employed,9500.0,3,7.3,No Past Due,1
+Female,Salary,94900.0,12.4,Higher education,Self-Employed,30800.0,2,19.0,No Past Due,1
+Male,Salary,49300.0,0.5,Higher education,Employed,3800.0,2,2.1,Past Due,0
+Female,Salary,50600.0,6.9,Secondary / secondary special,Employed,9700.0,1,12.1,Past Due,0
+Male,Self-Employed,42400.0,6.8,Secondary / secondary special,Self-Employed,2100.0,2,13.3,No Past Due,1
+Male,Self-Employed,71400.0,6.6,Secondary / secondary special,Employed,7500.0,1,11.4,No Past Due,1
+Female,Salary,38900.0,1.5,Secondary / secondary special,Student,2900.0,1,2.7,No Past Due,1
+Male,Salary,83900.0,10.4,Secondary / secondary special,Self-Employed,6800.0,4,20.3,No Past Due,1
+Male,Self-Employed,26300.0,0.3,Higher education,Employed,7000.0,3,4.6,No Past Due,1
+Female,Salary,26800.0,3.8,Higher education,Self-Employed,74800.0,2,11.8,No Past Due,0
+Female,Business,71500.0,3.0,Secondary / secondary special,Employed,78900.0,1,6.9,Past Due,0
+Male,Business,46700.0,2.2,Secondary / secondary special,Employed,1800.0,1,7.5,No Past Due,1
+Male,Pensioner,38200.0,3.6,Secondary / secondary special,Employed,19400.0,1,8.1,No Past Due,1
+Female,Business,80000.0,2.9,Secondary / secondary special,Employed,800.0,4,7.0,No Past Due,1
+Male,Salary,35100.0,3.4,Higher education,Self-Employed,500.0,4,4.6,No Past Due,1
+Male,Business,43900.0,23.3,Secondary / secondary special,Employed,1700.0,3,27.5,Past Due,1
+Male,Salary,105800.0,0.6,Secondary / secondary special,Self-Employed,50500.0,2,9.6,No Past Due,1
+Female,Salary,114300.0,15.3,Secondary / secondary special,Employed,42400.0,1,22.5,No Past Due,1
+Female,Business,116400.0,3.9,Incomplete higher,Employed,3200.0,2,6.2,No Past Due,1
+Male,Salary,42000.0,0.0,Higher education,Unemployed,2600.0,2,6.3,Past Due,0
+Male,Business,96500.0,10.6,Secondary / secondary special,Employed,4100.0,1,19.6,No Past Due,1
+Male,Pensioner,29100.0,2.7,Higher education,Employed,10900.0,1,10.0,Past Due,0
+Female,Pensioner,29800.0,3.4,Higher education,Employed,12600.0,3,5.7,No Past Due,1
+Male,Pensioner,18000.0,3.2,Lower secondary,Employed,3800.0,2,12.0,No Past Due,1
+Male,Salary,123000.0,2.8,Secondary / secondary special,Employed,21200.0,1,6.5,No Past Due,1
+Female,Salary,30500.0,15.6,Incomplete higher,Self-Employed,5600.0,2,20.7,Past Due,1
+Male,Self-Employed,45700.0,10.6,Lower secondary,Employed,38300.0,2,16.3,Past Due,0
+Female,Salary,29700.0,0.7,Incomplete higher,Employed,16000.0,4,9.4,No Past Due,0
+Male,Self-Employed,71900.0,0.7,Higher education,Student,8600.0,1,10.1,No Past Due,1
+Male,Business,39900.0,3.4,Higher education,Employed,23400.0,0,12.8,No Past Due,1
+Male,Business,23900.0,0.0,Secondary / secondary special,Unemployed,25500.0,1,1.1,No Past Due,0
+Female,Salary,62500.0,5.8,Higher education,Employed,5100.0,0,15.1,No Past Due,1
+Female,Salary,22300.0,0.9,Higher education,Employed,6200.0,1,2.4,Past Due,0
+Female,Salary,30900.0,0.0,Higher education,Unemployed,41200.0,0,3.4,Past Due,0
+Male,Salary,18000.0,0.0,Secondary / secondary special,Employed,2700.0,0,5.6,No Past Due,1
+Female,Pensioner,22400.0,2.3,Higher education,Self-Employed,600.0,1,7.6,No Past Due,1
+Male,Salary,54100.0,6.8,Higher education,Employed,9100.0,3,13.2,Past Due,0
+Male,Salary,18000.0,4.0,Secondary / secondary special,Employed,24200.0,0,9.3,Past Due,0
+Female,Salary,21700.0,23.0,Higher education,Employed,22200.0,1,32.4,No Past Due,1
+Male,Self-Employed,49000.0,12.4,Higher education,Employed,37800.0,3,15.6,No Past Due,1
+Male,Self-Employed,36400.0,0.0,Higher education,Unemployed,11400.0,3,3.5,No Past Due,0
+Male,Salary,146600.0,0.3,Secondary / secondary special,Employed,1600.0,5,9.6,No Past Due,1
+Male,Salary,134400.0,1.8,Secondary / secondary special,Student,13300.0,2,3.5,No Past Due,1
+Male,Salary,30400.0,14.5,Incomplete higher,Pensioner,22600.0,1,21.0,No Past Due,1
+Female,Salary,66600.0,10.3,Secondary / secondary special,Employed,1500.0,2,17.4,No Past Due,1
+Male,Business,74000.0,0.8,Higher education,Employed,2800.0,0,6.3,No Past Due,1
+Female,Self-Employed,35300.0,37.0,Secondary / secondary special,Pensioner,200.0,5,44.2,No Past Due,1
+Female,Salary,21500.0,1.8,Higher education,Student,13500.0,1,4.4,No Past Due,1
+Male,Salary,48700.0,7.7,Secondary / secondary special,Employed,32700.0,1,16.4,Past Due,0
+Male,Commercial,44600.0,14.3,Higher education,Employed,16700.0,1,16.6,Past Due,1
+Male,Self-Employed,38600.0,1.6,Secondary / secondary special,Employed,60300.0,2,6.2,No Past Due,0
+Female,Business,62500.0,14.3,Secondary / secondary special,Self-Employed,1000.0,1,16.0,No Past Due,1
+Male,Salary,32400.0,2.2,Secondary / secondary special,Employed,35000.0,2,8.1,Past Due,0
+Female,Self-Employed,26000.0,22.5,Secondary / secondary special,Self-Employed,25200.0,4,29.5,No Past Due,1
+Male,Salary,52100.0,2.0,Lower secondary,Employed,5700.0,3,11.5,No Past Due,1
+Female,Self-Employed,60600.0,18.4,Lower secondary,Employed,54500.0,2,26.1,No Past Due,1
+Male,Commercial,25700.0,0.3,Secondary / secondary special,Employed,5100.0,1,6.2,No Past Due,1
+Male,Salary,81700.0,7.4,Higher education,Employed,33000.0,3,16.8,No Past Due,1
+Female,Salary,18500.0,4.6,Secondary / secondary special,Employed,31900.0,0,9.9,Past Due,0
+Female,Salary,35700.0,3.9,Higher education,Employed,21300.0,0,10.0,No Past Due,1
+Male,Salary,42500.0,1.5,Higher education,Employed,12400.0,2,7.9,No Past Due,1
+Female,Salary,34500.0,7.3,Lower secondary,Employed,1900.0,2,12.0,Past Due,0
+Female,Salary,35900.0,1.3,Secondary / secondary special,Employed,11400.0,2,9.8,No Past Due,1
+Female,Business,137200.0,0.8,Higher education,Student,6600.0,4,3.5,No Past Due,1
+Female,Self-Employed,30700.0,1.8,Secondary / secondary special,Employed,23600.0,3,7.8,No Past Due,0
+Male,Salary,187700.0,18.7,Academic degree,Employed,21300.0,3,26.2,No Past Due,1
+Male,Pensioner,62300.0,0.2,Secondary / secondary special,Employed,36200.0,0,9.3,No Past Due,1
+Male,Salary,51600.0,1.3,Higher education,Student,200.0,2,10.3,No Past Due,1
+Female,Commercial,63700.0,1.7,Higher education,Employed,24800.0,2,7.3,No Past Due,1
+Female,Salary,197100.0,3.2,Higher education,Self-Employed,41800.0,1,10.0,No Past Due,1
+Male,Pensioner,28400.0,1.6,Secondary / secondary special,Self-Employed,23400.0,1,6.1,No Past Due,0
+Male,Self-Employed,26500.0,4.1,Lower secondary,Self-Employed,2100.0,1,9.3,No Past Due,1
+Female,Pensioner,32400.0,12.4,Secondary / secondary special,Employed,1300.0,0,21.6,No Past Due,1
+Female,Commercial,49900.0,7.5,Higher education,Self-Employed,300.0,2,16.9,No Past Due,1
+Female,Salary,19000.0,5.2,Secondary / secondary special,Employed,14900.0,4,14.3,No Past Due,0
+Male,Commercial,49600.0,0.6,Secondary / secondary special,Employed,14900.0,2,2.8,Past Due,0
+Male,Salary,124400.0,7.1,Higher education,Self-Employed,65000.0,0,15.8,No Past Due,1
+Male,Salary,53300.0,1.1,Secondary / secondary special,Employed,7600.0,1,10.6,No Past Due,1
+Female,Salary,41700.0,0.0,Secondary / secondary special,Unemployed,6000.0,3,4.3,Past Due,0
+Male,Self-Employed,34900.0,1.7,Secondary / secondary special,Employed,14700.0,3,7.4,No Past Due,0
+Female,Salary,80400.0,0.0,Secondary / secondary special,Unemployed,26200.0,4,8.0,No Past Due,0
+Male,Self-Employed,31100.0,2.6,Higher education,Employed,41400.0,3,8.7,Past Due,0
+Female,Self-Employed,135300.0,11.7,Incomplete higher,Employed,24400.0,0,21.6,Past Due,1
+Female,Business,142000.0,0.8,Secondary / secondary special,Employed,8300.0,3,5.9,No Past Due,1
+Female,Pensioner,56500.0,5.0,Secondary / secondary special,Pensioner,15100.0,1,12.4,No Past Due,1
+Male,Salary,48700.0,0.9,Secondary / secondary special,Employed,29100.0,3,9.0,No Past Due,0
+Male,Salary,86400.0,7.3,Secondary / secondary special,Employed,10100.0,3,12.7,Past Due,0
+Male,Salary,89500.0,14.1,Higher education,Employed,3700.0,1,22.8,No Past Due,1
+Female,Salary,31500.0,3.4,Higher education,Self-Employed,2800.0,1,9.3,No Past Due,1
+Female,Salary,36700.0,4.0,Secondary / secondary special,Employed,0.0,0,8.7,Past Due,0
+Female,Salary,23700.0,15.7,Secondary / secondary special,Employed,19000.0,0,17.7,No Past Due,1
+Female,Salary,61400.0,4.4,Secondary / secondary special,Employed,1800.0,1,8.9,Past Due,0
+Female,Commercial,70700.0,4.0,,Employed,4200.0,1,11.6,No Past Due,1
+Male,Self-Employed,,5.2,Lower secondary,Employed,5300.0,1,14.5,No Past Due,1
+Female,Salary,38200.0,7.0,Secondary / secondary special,Employed,12300.0,3,10.3,No Past Due,1
+Male,Self-Employed,23400.0,0.7,Secondary / secondary special,Self-Employed,7600.0,0,4.9,Past Due,0
+Male,Salary,29900.0,10.3,Incomplete higher,Employed,16800.0,2,12.7,No Past Due,1
+Female,Salary,66400.0,3.4,Incomplete higher,Employed,900.0,1,10.6,No Past Due,1
+Male,Self-Employed,32700.0,0.5,Secondary / secondary special,Employed,2000.0,2,10.1,No Past Due,1
+Male,Self-Employed,41500.0,2.2,Secondary / secondary special,Student,10400.0,1,9.0,No Past Due,1
+Female,Salary,20000.0,2.8,Secondary / secondary special,Pensioner,6200.0,1,9.4,Past Due,0
+Male,Commercial,54300.0,0.0,Higher education,Unemployed,5300.0,1,6.0,No Past Due,1
+Female,Pensioner,47800.0,6.0,Secondary / secondary special,Employed,1000.0,2,7.8,No Past Due,1
+Male,Self-Employed,32800.0,12.7,Secondary / secondary special,Employed,33900.0,2,20.3,Past Due,0
+Male,Self-Employed,44200.0,13.1,Higher education,Employed,17700.0,2,19.5,No Past Due,1
+Male,Self-Employed,54100.0,19.0,Secondary / secondary special,Employed,1900.0,2,26.0,No Past Due,1
+Male,Salary,31300.0,12.1,Higher education,Employed,1000.0,1,21.2,No Past Due,1
+Female,Salary,21800.0,0.0,Secondary / secondary special,Self-Employed,55300.0,1,8.1,Past Due,0
+Male,Salary,132300.0,0.0,Secondary / secondary special,Unemployed,17100.0,2,8.0,No Past Due,1
+Female,Self-Employed,34600.0,0.0,Higher education,Unemployed,8100.0,2,9.3,No Past Due,0
+Male,Self-Employed,46500.0,2.7,Secondary / secondary special,Employed,18100.0,3,12.6,No Past Due,1
+Female,Salary,85500.0,5.5,Lower secondary,Self-Employed,21200.0,2,11.7,No Past Due,1
+Female,Commercial,341500.0,5.6,Higher education,Employed,22700.0,1,7.6,No Past Due,1
+Female,Pensioner,24700.0,2.7,Secondary / secondary special,Employed,9700.0,2,7.8,No Past Due,1
+Male,Business,62800.0,14.1,Higher education,Self-Employed,8400.0,2,22.2,No Past Due,1
+Male,Self-Employed,33200.0,4.2,Secondary / secondary special,Employed,200.0,2,5.4,No Past Due,1
+Male,Pensioner,36400.0,3.8,Incomplete higher,Employed,39200.0,2,5.3,No Past Due,0
+Female,Salary,33000.0,36.0,Secondary / secondary special,Employed,13900.0,2,37.6,No Past Due,1
+Male,Business,26400.0,4.1,Higher education,Self-Employed,3400.0,1,11.7,Past Due,0
+Female,Salary,47900.0,1.2,Secondary / secondary special,Self-Employed,37800.0,0,6.7,Past Due,0
+Female,Business,21800.0,4.3,Secondary / secondary special,Employed,37000.0,1,8.6,No Past Due,0
+Male,Salary,82500.0,0.0,Higher education,Unemployed,67900.0,5,2.0,No Past Due,0
+Female,Pensioner,50500.0,9.0,Higher education,Employed,31100.0,4,16.6,No Past Due,1
+Male,Commercial,61800.0,9.3,Secondary / secondary special,Employed,91700.0,3,13.2,Past Due,0
+Male,Salary,37900.0,7.4,Secondary / secondary special,Self-Employed,4200.0,2,10.8,Past Due,0
+Female,Self-Employed,40100.0,1.8,Higher education,Self-Employed,27700.0,1,8.7,Past Due,0
+Female,Commercial,57400.0,1.8,Lower secondary,Student,26000.0,1,7.8,No Past Due,1
+Female,Self-Employed,25800.0,13.4,Secondary / secondary special,Employed,3900.0,2,17.7,No Past Due,1
+Male,Pensioner,40300.0,1.3,Secondary / secondary special,Self-Employed,1600.0,1,8.1,No Past Due,1
+Male,Self-Employed,30600.0,0.8,Secondary / secondary special,Self-Employed,58300.0,0,4.2,No Past Due,0
+Female,Salary,30000.0,22.3,Incomplete higher,Pensioner,5300.0,1,30.5,No Past Due,1
+Female,Salary,18000.0,12.2,Secondary / secondary special,Employed,30700.0,1,15.3,Past Due,0
+Female,Salary,102400.0,13.4,Secondary / secondary special,Self-Employed,100.0,0,15.8,No Past Due,1
+Male,Business,33600.0,13.0,Higher education,Employed,300.0,3,21.0,No Past Due,1
+Female,Salary,93000.0,4.7,Secondary / secondary special,Employed,9400.0,1,12.1,No Past Due,1
+Male,Self-Employed,88200.0,6.2,Secondary / secondary special,Employed,4100.0,1,8.8,Past Due,0
+Male,Self-Employed,24200.0,4.7,Secondary / secondary special,Employed,17600.0,0,6.7,No Past Due,1
+Female,Self-Employed,26900.0,0.3,Secondary / secondary special,Employed,12500.0,1,8.8,No Past Due,1
+Male,Pensioner,200400.0,8.2,Secondary / secondary special,Pensioner,1200.0,1,16.2,Past Due,1
+Female,Commercial,128400.0,4.2,Higher education,Employed,2700.0,2,8.1,No Past Due,1
+Male,Salary,48200.0,6.3,Secondary / secondary special,Self-Employed,7400.0,1,13.2,No Past Due,1
+Male,Pensioner,56500.0,4.2,Higher education,Employed,3100.0,1,6.3,No Past Due,1
+Female,Business,34600.0,4.1,Higher education,Employed,23600.0,1,9.7,No Past Due,1
+Female,Self-Employed,62200.0,1.1,Higher education,Employed,8100.0,1,2.3,Past Due,0
+Female,Commercial,33000.0,2.0,Secondary / secondary special,Employed,1500.0,2,6.5,Past Due,0
+Female,Salary,18000.0,1.0,,Employed,9900.0,3,2.7,No Past Due,0
+Female,Salary,23700.0,1.3,Secondary / secondary special,Employed,1400.0,1,6.6,No Past Due,1
+Female,Pensioner,49600.0,21.7,Secondary / secondary special,Employed,2100.0,3,26.5,No Past Due,1
+Female,Salary,26300.0,1.0,Secondary / secondary special,Employed,4100.0,0,6.0,No Past Due,1
+Male,Pensioner,47200.0,1.9,Higher education,Employed,29400.0,3,3.3,No Past Due,1
+Female,Pensioner,27100.0,5.4,Secondary / secondary special,Employed,38800.0,3,9.7,No Past Due,0
+Male,Salary,31900.0,5.7,Secondary / secondary special,Employed,26300.0,1,13.5,No Past Due,1
+Female,Pensioner,78400.0,1.0,Secondary / secondary special,Pensioner,6100.0,4,5.3,Past Due,0
+Female,Salary,56200.0,0.0,Higher education,Unemployed,4800.0,0,7.4,No Past Due,1
+Male,Self-Employed,48800.0,9.2,Secondary / secondary special,Self-Employed,11900.0,0,13.5,No Past Due,1
+Female,Self-Employed,79500.0,1.6,Higher education,Employed,19200.0,3,6.4,No Past Due,1
+Female,Commercial,63900.0,2.0,Secondary / secondary special,Self-Employed,75200.0,3,8.1,Past Due,0
+Male,Salary,108600.0,0.0,Incomplete higher,Unemployed,2100.0,2,9.6,No Past Due,1
+Female,Self-Employed,,10.5,Incomplete higher,Self-Employed,800.0,1,12.5,No Past Due,1
+Female,Business,38700.0,7.2,Secondary / secondary special,Employed,17800.0,4,8.5,No Past Due,1
+Male,Business,24000.0,0.5,Secondary / secondary special,Self-Employed,26800.0,1,7.0,No Past Due,0
+Female,Business,38700.0,0.0,Secondary / secondary special,Unemployed,28100.0,2,9.5,No Past Due,0
+Male,Salary,83300.0,4.9,Secondary / secondary special,Employed,17000.0,0,14.8,Past Due,1
+Female,Salary,100200.0,1.2,Higher education,Self-Employed,46200.0,1,6.6,Past Due,0
+Female,Salary,83100.0,3.6,Higher education,Employed,10700.0,4,8.8,Past Due,0
+Female,Pensioner,18300.0,5.5,Higher education,Employed,36800.0,4,12.3,No Past Due,0
+Male,Salary,88900.0,2.4,Higher education,Employed,51500.0,2,8.4,No Past Due,1
+Female,Salary,18000.0,9.1,Secondary / secondary special,Self-Employed,28200.0,1,15.8,No Past Due,0
+Female,Commercial,80300.0,11.0,Secondary / secondary special,Employed,5600.0,1,19.9,Past Due,1
+Male,Salary,40000.0,2.3,Higher education,Employed,3300.0,0,10.0,No Past Due,1
+Female,Commercial,72100.0,10.9,Secondary / secondary special,Employed,11900.0,3,16.4,No Past Due,1
+Male,Business,23600.0,0.7,Higher education,Employed,9100.0,2,5.9,No Past Due,1
+Female,Pensioner,93400.0,10.9,Secondary / secondary special,Employed,31500.0,5,17.7,No Past Due,1
+Male,Salary,21900.0,1.0,Secondary / secondary special,Self-Employed,1600.0,6,6.1,No Past Due,0
+Male,Salary,33900.0,0.5,Academic degree,Self-Employed,4500.0,3,5.6,No Past Due,1
+Male,Business,28300.0,6.2,Secondary / secondary special,Employed,20900.0,2,7.3,No Past Due,1
+Female,Pensioner,18700.0,3.8,Academic degree,Employed,1500.0,3,6.4,Past Due,0
+Male,Business,51600.0,14.3,Lower secondary,Employed,5800.0,1,19.7,No Past Due,1
+Female,Salary,132400.0,0.0,Higher education,Unemployed,7300.0,1,8.4,No Past Due,1
+Male,Business,212500.0,2.0,Higher education,Employed,14600.0,3,5.5,No Past Due,1
+Male,Business,51700.0,4.2,Higher education,Employed,2600.0,2,9.9,No Past Due,1
+Female,Business,90600.0,3.7,Incomplete higher,Employed,29600.0,0,7.8,Past Due,0
+Female,Business,55700.0,2.5,Secondary / secondary special,Self-Employed,8900.0,1,4.4,No Past Due,1
+Male,Pensioner,64500.0,0.0,Secondary / secondary special,Unemployed,37300.0,0,9.6,No Past Due,0
+Female,Self-Employed,40600.0,0.0,Higher education,Unemployed,9500.0,2,8.7,No Past Due,0
+Female,Salary,54600.0,11.5,,Self-Employed,4800.0,2,13.2,Past Due,0
+Female,Self-Employed,65900.0,21.6,Secondary / secondary special,Employed,2300.0,2,29.1,No Past Due,1
+Male,Salary,35700.0,1.9,Secondary / secondary special,Employed,100.0,1,6.0,No Past Due,1
+Male,Salary,47000.0,7.6,Higher education,Employed,11400.0,2,17.6,No Past Due,1
+Female,Salary,47500.0,3.0,Incomplete higher,Employed,1700.0,5,6.7,No Past Due,0
+Male,Salary,77200.0,6.8,Secondary / secondary special,Employed,7500.0,1,9.9,No Past Due,1
+Female,Salary,27300.0,3.9,Lower secondary,Employed,13300.0,0,10.0,Past Due,0
+Female,Salary,47700.0,30.5,Higher education,Employed,4800.0,2,39.0,No Past Due,1
+Female,Pensioner,140300.0,7.8,Higher education,Pensioner,2900.0,0,10.5,Past Due,1
+Female,Commercial,93000.0,18.3,Higher education,Self-Employed,22400.0,3,25.7,No Past Due,1
+Female,Salary,103000.0,0.0,Higher education,Unemployed,44000.0,1,1.6,No Past Due,1
+Male,Commercial,49700.0,14.0,Secondary / secondary special,Self-Employed,1600.0,0,23.3,No Past Due,1
+Female,Self-Employed,58500.0,10.1,Higher education,Employed,2500.0,3,11.8,Past Due,1
+Male,Salary,85100.0,3.7,Secondary / secondary special,Self-Employed,48300.0,4,12.9,No Past Due,1
+Male,Salary,115600.0,1.7,Incomplete higher,Employed,600.0,1,7.1,Past Due,0
+Female,Self-Employed,18000.0,2.8,Academic degree,Self-Employed,57000.0,0,7.8,Past Due,0
+Female,Business,23800.0,0.1,Secondary / secondary special,Employed,100.0,0,9.9,Past Due,0
+Female,Business,100700.0,1.0,Secondary / secondary special,Student,31000.0,1,10.9,No Past Due,1
+Female,Salary,42100.0,4.2,Higher education,Employed,5500.0,2,11.1,No Past Due,1
+Male,Salary,33900.0,4.5,Secondary / secondary special,Employed,41900.0,1,6.6,Past Due,0
+Male,Salary,24600.0,21.9,Incomplete higher,Pensioner,5700.0,3,27.5,No Past Due,1
+Female,Salary,36100.0,14.5,Secondary / secondary special,Employed,15900.0,4,20.3,No Past Due,1
+Male,Salary,22700.0,1.1,Secondary / secondary special,Self-Employed,1300.0,2,6.7,No Past Due,1
+Male,Salary,154800.0,2.8,Lower secondary,Self-Employed,4200.0,3,8.9,No Past Due,1
+Male,Pensioner,48400.0,0.0,Higher education,Unemployed,22300.0,1,1.2,No Past Due,0
+Male,Commercial,47500.0,2.7,Higher education,Student,11300.0,1,10.1,No Past Due,1
+Male,Salary,67700.0,0.1,Secondary / secondary special,Student,39500.0,4,7.5,No Past Due,0
+Male,Pensioner,83200.0,4.5,Higher education,Employed,8400.0,2,6.5,No Past Due,1
+Male,Salary,82500.0,0.0,Higher education,Unemployed,30600.0,2,6.1,No Past Due,1
+Male,Self-Employed,88500.0,11.5,Higher education,Self-Employed,8900.0,2,17.6,No Past Due,1
+Female,Salary,34600.0,9.8,Higher education,Self-Employed,58100.0,2,16.9,No Past Due,1
+Male,Self-Employed,41600.0,0.9,Higher education,Employed,48200.0,1,2.7,No Past Due,1
+Male,Commercial,74800.0,7.5,Secondary / secondary special,Self-Employed,6000.0,3,14.1,No Past Due,1
+Female,Self-Employed,36700.0,3.4,Secondary / secondary special,Student,32600.0,2,6.9,No Past Due,0
+Male,Salary,48900.0,2.1,Higher education,Pensioner,28200.0,2,7.7,No Past Due,1
+Female,Self-Employed,61000.0,0.3,Secondary / secondary special,Employed,3500.0,2,8.3,No Past Due,1
+Female,Salary,75500.0,4.0,Higher education,Employed,14700.0,4,11.4,No Past Due,1
+Male,Pensioner,18400.0,2.6,Secondary / secondary special,Employed,1100.0,2,4.7,Past Due,0
+Male,Self-Employed,72600.0,0.0,Higher education,Unemployed,27200.0,4,6.3,No Past Due,0
+Female,Salary,43100.0,7.1,Higher education,Self-Employed,2900.0,1,16.8,No Past Due,1
+Female,Self-Employed,72300.0,8.8,Secondary / secondary special,Employed,1100.0,1,11.2,No Past Due,1
+Male,Self-Employed,75200.0,1.7,Secondary / secondary special,Employed,7700.0,1,10.4,No Past Due,1
+Female,Salary,118700.0,0.3,Secondary / secondary special,Employed,12900.0,2,7.6,No Past Due,1
+Male,Business,103200.0,11.3,Higher education,Employed,29000.0,1,19.3,No Past Due,1
+Female,Salary,102800.0,0.1,Higher education,Pensioner,54900.0,1,3.6,No Past Due,1
+Male,Business,108400.0,16.6,Secondary / secondary special,Self-Employed,8700.0,2,20.2,No Past Due,1
+Female,Pensioner,57500.0,5.9,Higher education,Employed,900.0,2,15.1,No Past Due,1
+Female,Pensioner,49900.0,2.3,Secondary / secondary special,Employed,20700.0,2,6.5,Past Due,0
+Female,Self-Employed,79200.0,1.7,Secondary / secondary special,Employed,12500.0,2,3.3,No Past Due,1
+Female,Self-Employed,73300.0,0.1,Incomplete higher,Student,8900.0,2,6.5,No Past Due,1
+Male,Salary,41400.0,1.6,Secondary / secondary special,Employed,5600.0,6,3.7,No Past Due,0
+Male,Business,61200.0,0.9,Secondary / secondary special,Employed,10500.0,2,9.1,No Past Due,1
+Male,Salary,48100.0,5.7,Secondary / secondary special,Employed,6200.0,1,12.5,Past Due,0
+Male,Self-Employed,30600.0,1.1,Secondary / secondary special,Self-Employed,21200.0,3,10.0,No Past Due,0
+Female,Salary,99700.0,4.5,Secondary / secondary special,Self-Employed,11800.0,1,12.6,No Past Due,1
+Male,Salary,50500.0,5.4,Secondary / secondary special,Self-Employed,31400.0,5,7.4,Past Due,0
+Male,Self-Employed,151300.0,2.1,Higher education,Employed,11800.0,2,6.5,No Past Due,1
+Female,Salary,20000.0,0.2,Secondary / secondary special,Employed,4100.0,1,8.2,No Past Due,1
+Female,Business,36100.0,0.2,Higher education,Employed,28600.0,1,5.0,Past Due,0
+Female,Salary,49900.0,0.2,Secondary / secondary special,Self-Employed,12200.0,2,10.0,No Past Due,1
+Female,Salary,91600.0,8.1,Secondary / secondary special,Employed,3500.0,0,15.7,No Past Due,1
+Male,Self-Employed,61100.0,2.3,Higher education,Employed,14700.0,5,3.4,No Past Due,1
+Male,Salary,58100.0,0.0,Lower secondary,Unemployed,6600.0,3,8.9,No Past Due,0
+Female,Salary,26400.0,3.4,Secondary / secondary special,Pensioner,27900.0,1,5.3,No Past Due,0
+Female,Business,25900.0,3.6,Incomplete higher,Employed,9100.0,4,5.9,Past Due,0
+Male,Salary,58500.0,4.3,Higher education,Employed,19400.0,0,11.9,No Past Due,1
+Female,Pensioner,23100.0,7.5,Higher education,Employed,1500.0,2,16.3,No Past Due,1
+Male,Salary,36600.0,1.9,Higher education,Self-Employed,7600.0,0,7.7,Past Due,0
+Male,Salary,64600.0,0.0,Secondary / secondary special,Unemployed,61300.0,3,3.6,No Past Due,0
+Female,Business,28600.0,4.9,Secondary / secondary special,Employed,24800.0,0,9.1,No Past Due,1
+Female,Salary,118500.0,2.4,Higher education,Employed,2600.0,3,6.5,No Past Due,1
+Female,Salary,96100.0,0.0,Secondary / secondary special,Unemployed,4900.0,0,3.9,Past Due,0
+Male,Salary,20700.0,0.0,Incomplete higher,Unemployed,6000.0,2,3.2,Past Due,0
+Female,Salary,29400.0,4.1,Secondary / secondary special,Employed,15800.0,2,10.6,No Past Due,1
+Male,Pensioner,18000.0,5.8,Secondary / secondary special,Employed,21200.0,3,14.9,No Past Due,0
+Male,Salary,31900.0,4.7,Higher education,Employed,20800.0,1,8.5,No Past Due,1
+Female,Business,74700.0,8.1,Secondary / secondary special,Employed,10700.0,4,10.8,Past Due,0
+Female,Pensioner,39000.0,7.3,Higher education,Pensioner,25000.0,0,15.8,No Past Due,1
+Female,Salary,63200.0,0.0,Higher education,Unemployed,8600.0,2,7.7,No Past Due,1
+Female,Pensioner,21200.0,6.8,Incomplete higher,Self-Employed,2000.0,0,16.2,Past Due,0
+Female,Salary,76000.0,12.4,Higher education,Employed,12500.0,0,14.9,No Past Due,1
+Female,Commercial,36100.0,0.0,Higher education,Unemployed,45600.0,6,2.3,No Past Due,0
+Male,Salary,49400.0,3.2,Higher education,Employed,23600.0,2,9.1,No Past Due,1
+Male,Business,46600.0,8.7,Lower secondary,Employed,13000.0,1,15.2,No Past Due,1
+Male,Self-Employed,24400.0,5.2,Secondary / secondary special,Employed,15600.0,2,10.5,No Past Due,1
+Male,Salary,26000.0,0.4,Secondary / secondary special,Employed,40000.0,4,6.8,Past Due,0
+Female,Self-Employed,83500.0,13.4,Secondary / secondary special,Self-Employed,8400.0,1,16.0,No Past Due,1
+Female,Business,61000.0,0.2,Secondary / secondary special,Employed,6000.0,5,5.5,No Past Due,0
+Male,Salary,87300.0,8.3,Higher education,Employed,56700.0,1,15.2,No Past Due,1
+Male,Salary,58600.0,8.5,Higher education,Employed,29900.0,0,13.4,No Past Due,1
+Female,Business,53000.0,18.4,Higher education,Employed,5900.0,1,25.5,No Past Due,1
+Male,Business,19000.0,0.3,Secondary / secondary special,Employed,9300.0,1,5.4,No Past Due,1
+Female,Commercial,42200.0,5.5,Higher education,Employed,8000.0,0,9.5,Past Due,1
+Female,Business,48300.0,0.0,Secondary / secondary special,Unemployed,2400.0,4,3.7,No Past Due,0
+Female,Commercial,143500.0,2.4,Higher education,Employed,47500.0,1,7.1,No Past Due,1
+Female,Business,71500.0,0.6,Higher education,Employed,7800.0,2,1.8,No Past Due,1
+Female,Salary,114100.0,5.0,Secondary / secondary special,Employed,31200.0,3,12.0,Past Due,0
+Male,Salary,68100.0,0.0,Secondary / secondary special,Unemployed,3100.0,1,8.6,No Past Due,0
+Female,Business,33100.0,0.7,Secondary / secondary special,Employed,11900.0,4,4.9,Past Due,0
+Female,Self-Employed,52300.0,5.7,Higher education,Employed,400.0,2,7.1,No Past Due,1
+Male,Salary,55800.0,8.0,Incomplete higher,Employed,21700.0,2,17.9,Past Due,0
+Female,Salary,29200.0,8.7,Higher education,Employed,13000.0,3,12.1,No Past Due,1
+Female,Commercial,39700.0,14.1,Secondary / secondary special,Employed,14700.0,4,16.2,Past Due,0
+Female,Self-Employed,43800.0,3.2,Secondary / secondary special,Self-Employed,800.0,3,7.5,No Past Due,1
+Female,Salary,118600.0,18.4,Higher education,Self-Employed,3600.0,3,26.0,No Past Due,1
+Female,Self-Employed,18000.0,12.0,Higher education,Employed,1200.0,1,15.6,No Past Due,1
+Female,Salary,95100.0,2.1,Secondary / secondary special,Self-Employed,5100.0,1,8.3,Past Due,0
+Female,Salary,29300.0,1.0,Secondary / secondary special,Self-Employed,14800.0,3,5.7,No Past Due,0
+Female,Salary,23000.0,3.4,Higher education,Employed,12500.0,2,5.5,Past Due,0
+Female,Salary,93800.0,3.1,Secondary / secondary special,Employed,14200.0,3,7.1,Past Due,0
+Female,Business,73300.0,5.1,Secondary / secondary special,Employed,12000.0,0,12.6,No Past Due,1
+Female,Salary,97700.0,5.3,Secondary / secondary special,Employed,4800.0,0,11.8,Past Due,1
+Male,Pensioner,76100.0,8.3,Higher education,Self-Employed,4200.0,2,10.4,No Past Due,1
+Female,Pensioner,152200.0,0.0,Incomplete higher,Unemployed,2200.0,2,2.5,No Past Due,1
+Female,Salary,66700.0,0.7,Lower secondary,Student,28400.0,2,7.5,No Past Due,1
+Male,Business,45000.0,11.7,Higher education,Self-Employed,14400.0,1,20.0,No Past Due,1
+Female,Self-Employed,59200.0,2.2,Higher education,Employed,3100.0,2,6.3,No Past Due,1
+Male,Pensioner,97100.0,21.3,Secondary / secondary special,Employed,2900.0,2,27.7,No Past Due,1
+Male,Salary,31900.0,0.0,Higher education,Unemployed,31000.0,1,2.5,No Past Due,0
+Female,Business,34300.0,19.1,Secondary / secondary special,Employed,20400.0,2,22.9,No Past Due,1
+Male,Self-Employed,41400.0,0.6,Higher education,Self-Employed,16200.0,4,1.8,No Past Due,1
+Female,Salary,18000.0,1.6,Secondary / secondary special,Self-Employed,7800.0,3,9.5,No Past Due,0
+Female,Salary,52900.0,0.3,Secondary / secondary special,Self-Employed,4600.0,0,4.9,Past Due,0
+Female,Business,18000.0,0.0,Secondary / secondary special,Unemployed,58300.0,4,8.3,No Past Due,0
+Male,Business,50500.0,11.4,Secondary / secondary special,Employed,23900.0,2,18.8,No Past Due,1
+Male,Salary,78900.0,3.4,Secondary / secondary special,Self-Employed,5400.0,2,11.9,No Past Due,1
+Female,Self-Employed,37700.0,0.0,Secondary / secondary special,Unemployed,28200.0,1,3.6,No Past Due,0
+Female,Salary,123300.0,5.4,Academic degree,Employed,21300.0,4,8.1,Past Due,1
+Female,Business,22000.0,6.0,Secondary / secondary special,Self-Employed,5300.0,0,15.7,No Past Due,1
+Male,Salary,94400.0,11.2,,Employed,8300.0,1,18.7,No Past Due,1
+Female,Pensioner,71100.0,2.1,Incomplete higher,Pensioner,3100.0,1,10.6,No Past Due,1
+Female,Salary,19100.0,2.6,Academic degree,Employed,1800.0,1,3.7,No Past Due,1
+Female,Salary,217700.0,14.2,Higher education,Employed,19200.0,2,18.4,Past Due,1
+Male,Salary,47300.0,13.9,Higher education,Employed,4700.0,1,21.6,Past Due,1
+Female,Salary,30300.0,22.5,Secondary / secondary special,Self-Employed,25700.0,1,24.2,No Past Due,1
+Female,Self-Employed,22600.0,13.9,Secondary / secondary special,Employed,81400.0,1,20.0,No Past Due,0
+Female,Salary,43400.0,0.8,Secondary / secondary special,Employed,1200.0,3,5.7,No Past Due,1
+Male,Pensioner,45700.0,10.4,Higher education,Employed,9600.0,0,11.6,No Past Due,1
+Female,Salary,,3.2,Higher education,Pensioner,24300.0,1,6.3,Past Due,0
+Female,Salary,41600.0,28.1,Secondary / secondary special,Employed,23300.0,1,31.7,Past Due,1
+Male,Salary,69400.0,3.8,Secondary / secondary special,Employed,21400.0,2,5.8,No Past Due,1
+Female,Salary,39600.0,4.8,Higher education,Self-Employed,6400.0,1,11.5,Past Due,0
+Female,Salary,18000.0,4.5,Secondary / secondary special,Employed,9100.0,3,7.7,No Past Due,0
+Male,Salary,45200.0,2.3,Higher education,Pensioner,13600.0,1,5.8,No Past Due,1
+Male,Self-Employed,18000.0,0.5,Higher education,Employed,54700.0,2,9.6,No Past Due,0
+Female,Salary,59600.0,13.6,Higher education,Self-Employed,6000.0,4,18.8,No Past Due,1
+Male,Self-Employed,28600.0,9.7,Higher education,Employed,38500.0,2,14.2,No Past Due,1
+Female,Self-Employed,53600.0,0.9,Incomplete higher,Employed,4700.0,0,8.4,No Past Due,1
+Male,Salary,101000.0,9.0,Secondary / secondary special,Self-Employed,67700.0,0,18.2,No Past Due,1
+Female,Self-Employed,29100.0,5.9,Higher education,Employed,16600.0,2,7.1,No Past Due,1
+Male,Commercial,87900.0,3.2,Higher education,Self-Employed,9300.0,4,8.2,Past Due,0
+Female,Self-Employed,38600.0,1.8,Secondary / secondary special,Employed,14300.0,0,8.3,No Past Due,1
+Female,Business,128600.0,11.8,Secondary / secondary special,Employed,4800.0,0,15.7,No Past Due,1
+Female,Salary,40100.0,7.2,Secondary / secondary special,Employed,4800.0,0,15.2,Past Due,0
+Female,Business,30900.0,2.3,Secondary / secondary special,Student,1800.0,1,12.0,Past Due,0
+Male,Business,71500.0,5.6,Higher education,Employed,1800.0,0,15.1,Past Due,1
+Female,Self-Employed,38600.0,0.6,Higher education,Employed,6400.0,0,4.0,No Past Due,1
+Male,Commercial,30900.0,3.9,Secondary / secondary special,Employed,21600.0,1,6.9,No Past Due,1
+Male,Salary,37700.0,1.3,,Employed,14000.0,2,10.9,No Past Due,1
+Male,Salary,47800.0,1.4,Lower secondary,Employed,1600.0,1,6.5,No Past Due,1
+Female,Business,102600.0,6.5,Secondary / secondary special,Pensioner,28700.0,3,9.4,Past Due,0
+Female,Pensioner,18000.0,14.5,Secondary / secondary special,Employed,13800.0,2,21.9,No Past Due,1
+Female,Salary,49600.0,3.1,Higher education,Pensioner,48600.0,1,6.7,No Past Due,1
+Male,Salary,69100.0,1.4,Higher education,Employed,16600.0,2,4.8,No Past Due,1
+Male,Salary,54500.0,6.3,Secondary / secondary special,Self-Employed,2900.0,2,15.2,No Past Due,1
+Female,Salary,100800.0,12.3,Secondary / secondary special,Pensioner,9600.0,1,14.8,Past Due,1
+Male,Business,47100.0,8.3,Secondary / secondary special,Employed,15700.0,3,9.9,No Past Due,1
+Male,Self-Employed,44300.0,0.6,Higher education,Student,400.0,1,4.0,No Past Due,1
+Male,Salary,67900.0,4.6,Higher education,Employed,200.0,1,11.1,No Past Due,1
+Female,Salary,51800.0,8.4,Secondary / secondary special,Pensioner,2100.0,1,10.5,No Past Due,1
+Female,Salary,39500.0,0.9,Higher education,Self-Employed,4300.0,0,6.1,No Past Due,1
+Male,Salary,65100.0,2.6,Higher education,Employed,8400.0,1,9.2,No Past Due,1
+Male,Self-Employed,34200.0,3.0,Secondary / secondary special,Employed,10000.0,2,11.6,No Past Due,1
+Female,Commercial,35000.0,4.3,Secondary / secondary special,Employed,2200.0,0,7.4,No Past Due,1
+Female,Pensioner,36700.0,15.9,Higher education,Employed,16800.0,0,24.3,Past Due,1
+Male,Salary,103200.0,12.4,Secondary / secondary special,Employed,13600.0,3,15.5,Past Due,1
+Female,Pensioner,18000.0,0.9,Secondary / secondary special,Employed,5200.0,0,8.0,Past Due,0
+Male,Business,60900.0,1.1,Higher education,Employed,200.0,2,6.0,No Past Due,1
+Male,Business,50000.0,2.7,Incomplete higher,Self-Employed,1200.0,3,4.7,No Past Due,1
+Female,Self-Employed,19400.0,2.1,Higher education,Employed,7500.0,1,9.5,No Past Due,1
+Male,Salary,58100.0,5.7,Higher education,Employed,2500.0,3,8.7,Past Due,0
+Female,Salary,63700.0,14.0,Higher education,Self-Employed,7100.0,1,16.6,Past Due,1
+Male,Salary,67800.0,19.7,Secondary / secondary special,Employed,14800.0,1,23.9,Past Due,1
+Male,Salary,18000.0,6.4,Higher education,Employed,11900.0,0,13.3,No Past Due,1
+Female,Salary,103900.0,10.9,Secondary / secondary special,Employed,3900.0,2,14.0,Past Due,1
+Male,Self-Employed,32700.0,4.5,Secondary / secondary special,Pensioner,6300.0,0,7.2,No Past Due,1
+Female,Business,71500.0,0.0,Higher education,Unemployed,14300.0,6,1.1,No Past Due,0
+Male,Self-Employed,73700.0,4.5,Higher education,Employed,29600.0,2,9.7,No Past Due,1
+Male,Salary,30300.0,4.9,Secondary / secondary special,Self-Employed,21000.0,0,9.8,No Past Due,1
+Male,Commercial,70500.0,8.1,Incomplete higher,Employed,12100.0,3,11.2,No Past Due,1
+Female,Commercial,39700.0,1.5,Secondary / secondary special,Self-Employed,6700.0,1,3.0,No Past Due,1
+Male,Business,18000.0,2.8,Secondary / secondary special,Self-Employed,6800.0,1,7.7,No Past Due,1
+Female,Commercial,93200.0,2.7,Secondary / secondary special,Self-Employed,31700.0,2,10.8,No Past Due,1
+Male,Self-Employed,32000.0,19.2,Higher education,Employed,600.0,2,26.6,Past Due,1
+Female,Commercial,30600.0,3.5,Higher education,Employed,66300.0,1,12.2,No Past Due,0
+Male,Salary,39300.0,8.4,Secondary / secondary special,Employed,16400.0,2,9.5,No Past Due,1
+Female,Salary,56900.0,8.3,Higher education,Pensioner,17100.0,1,18.0,Past Due,1
+Female,Salary,47500.0,1.9,Secondary / secondary special,Employed,600.0,4,6.0,Past Due,0
+Female,Salary,66300.0,0.0,Higher education,Unemployed,14000.0,0,9.9,No Past Due,1
+Female,Salary,23500.0,2.5,Secondary / secondary special,Student,9900.0,2,5.8,No Past Due,1
+Female,Self-Employed,32600.0,3.9,Secondary / secondary special,Employed,1700.0,1,9.1,No Past Due,1
+Female,Business,46000.0,17.4,Lower secondary,Self-Employed,4900.0,0,21.6,No Past Due,1
+Male,Self-Employed,139200.0,1.4,Secondary / secondary special,Self-Employed,33200.0,0,5.6,No Past Due,1
+Male,Salary,46000.0,0.5,Secondary / secondary special,Student,12000.0,1,9.1,Past Due,0
+Female,Pensioner,89000.0,1.3,Higher education,Student,8000.0,1,9.0,No Past Due,1
+Female,Self-Employed,50100.0,11.3,Lower secondary,Self-Employed,1100.0,1,21.2,Past Due,1
+Female,Salary,37600.0,29.4,Secondary / secondary special,Employed,18800.0,1,35.9,Past Due,1
+Female,Business,42800.0,6.8,Secondary / secondary special,Self-Employed,18200.0,3,12.0,Past Due,0
+Male,Salary,44700.0,16.6,Secondary / secondary special,Employed,14300.0,3,18.4,No Past Due,1
+Male,Salary,68300.0,10.5,Higher education,Self-Employed,10700.0,3,20.5,Past Due,1
+Female,Pensioner,104400.0,11.2,Secondary / secondary special,Pensioner,8500.0,0,17.2,No Past Due,1
+Male,Salary,59700.0,5.1,Higher education,Employed,13500.0,1,12.4,No Past Due,1
+Male,Self-Employed,94200.0,2.9,Academic degree,Self-Employed,4000.0,1,7.6,No Past Due,1
+Female,Pensioner,28800.0,16.4,Secondary / secondary special,Employed,42500.0,1,22.3,No Past Due,1
+Male,Business,39000.0,3.4,Secondary / secondary special,Employed,13300.0,1,12.9,No Past Due,1
+Female,Salary,32900.0,4.6,Secondary / secondary special,Employed,5600.0,1,7.1,No Past Due,1
+Male,Salary,58300.0,3.5,Secondary / secondary special,Self-Employed,9000.0,3,7.1,No Past Due,1
+Female,Salary,40200.0,5.0,Incomplete higher,Pensioner,24600.0,2,7.4,No Past Due,1
+Male,Self-Employed,73200.0,3.8,Secondary / secondary special,Pensioner,2600.0,5,11.9,No Past Due,1
+Male,Salary,29400.0,0.3,Secondary / secondary special,Employed,5200.0,1,1.9,No Past Due,1
+Male,Salary,50200.0,0.0,Higher education,Unemployed,17100.0,1,1.7,Past Due,0
+Male,Commercial,71500.0,3.5,Secondary / secondary special,Self-Employed,5700.0,2,7.2,No Past Due,1
+Male,Self-Employed,18000.0,5.3,Higher education,Employed,23600.0,0,10.9,No Past Due,1
+Male,Salary,157500.0,0.9,Secondary / secondary special,Employed,2100.0,2,5.6,No Past Due,1
+Female,Self-Employed,42000.0,0.0,Higher education,Employed,21600.0,1,1.4,No Past Due,1
+Male,Business,18000.0,1.7,Lower secondary,Pensioner,1100.0,1,11.3,No Past Due,1
+Female,Salary,53500.0,7.3,Higher education,Self-Employed,200.0,2,16.9,No Past Due,1
+Female,Salary,49900.0,0.6,Lower secondary,Self-Employed,34300.0,1,4.1,Past Due,0
+Female,Pensioner,46900.0,14.4,Secondary / secondary special,Employed,13100.0,0,22.0,No Past Due,1
+Male,Self-Employed,84600.0,1.5,Secondary / secondary special,Self-Employed,6500.0,1,7.7,No Past Due,1
+Female,Self-Employed,73900.0,1.4,Higher education,Employed,4000.0,1,4.5,No Past Due,1
+Male,Salary,57700.0,1.2,Higher education,Employed,14400.0,3,4.6,Past Due,0
+Male,Salary,62800.0,0.1,Secondary / secondary special,Self-Employed,10700.0,1,5.5,No Past Due,1
+Female,Salary,46300.0,8.9,Secondary / secondary special,Employed,71700.0,0,13.7,No Past Due,1
+Male,Salary,,0.0,Secondary / secondary special,Unemployed,61300.0,3,3.6,Past Due,0
+Female,Salary,21700.0,5.7,Secondary / secondary special,Employed,15100.0,0,14.0,No Past Due,1
+Female,Salary,52900.0,1.3,Secondary / secondary special,Self-Employed,8800.0,3,6.6,No Past Due,1
+Female,Pensioner,50800.0,2.0,Higher education,Employed,10100.0,2,8.9,No Past Due,1
+Female,Commercial,,3.9,Secondary / secondary special,Employed,17200.0,2,6.6,No Past Due,1
+Male,Business,30800.0,18.5,Secondary / secondary special,Employed,1600.0,1,24.3,No Past Due,1
+Male,Pensioner,18800.0,1.7,Higher education,Employed,6000.0,4,5.6,No Past Due,1
+Female,Salary,53400.0,7.9,Higher education,Pensioner,1200.0,1,13.6,No Past Due,1
+Male,Commercial,57200.0,3.5,Incomplete higher,Employed,1100.0,0,11.5,No Past Due,1
+Male,Salary,111200.0,0.0,Higher education,Unemployed,3300.0,5,7.9,No Past Due,1
+Male,Commercial,24400.0,3.7,Secondary / secondary special,Student,10000.0,3,7.9,Past Due,0
+Male,Commercial,92500.0,0.4,Higher education,Employed,23000.0,3,7.6,Past Due,0
+Male,Business,180200.0,9.6,Higher education,Employed,10000.0,1,19.1,No Past Due,1
+Male,Commercial,39800.0,1.7,Secondary / secondary special,Self-Employed,6100.0,4,8.3,No Past Due,0
+Female,Self-Employed,24100.0,1.7,Higher education,Student,1300.0,0,4.0,No Past Due,1
+Female,Salary,39200.0,0.4,Incomplete higher,Pensioner,12000.0,1,7.5,No Past Due,1
+Female,Salary,49400.0,18.6,Secondary / secondary special,Employed,4700.0,2,20.5,No Past Due,1
+Male,Self-Employed,66800.0,1.3,Secondary / secondary special,Self-Employed,14300.0,0,10.1,Past Due,0
+Male,Salary,35400.0,12.9,Secondary / secondary special,Employed,56700.0,2,18.5,No Past Due,1
+Male,Self-Employed,115300.0,2.6,Secondary / secondary special,Student,1800.0,1,7.1,No Past Due,1
+Female,Commercial,26600.0,2.6,Secondary / secondary special,Student,3600.0,2,4.1,No Past Due,1
+Female,Salary,18800.0,3.9,Higher education,Employed,9600.0,6,8.3,No Past Due,0
+Male,Business,90100.0,7.8,Secondary / secondary special,Employed,51900.0,3,16.9,No Past Due,1
+Female,Pensioner,18000.0,2.8,Lower secondary,Employed,22200.0,3,4.0,No Past Due,0
+Male,Commercial,43800.0,1.2,Higher education,Employed,34300.0,2,6.5,No Past Due,1
+Female,Commercial,272300.0,0.0,Higher education,Unemployed,6100.0,2,9.4,Past Due,1
+Female,Self-Employed,48700.0,1.1,Higher education,Employed,72500.0,3,5.7,No Past Due,0
+Female,Commercial,26500.0,24.1,Secondary / secondary special,Employed,1600.0,1,29.0,Past Due,1
+Female,Business,47500.0,0.6,Secondary / secondary special,Employed,800.0,4,6.8,Past Due,0
+Female,Salary,47700.0,1.1,,Student,29000.0,4,6.3,No Past Due,1
+Male,Self-Employed,53500.0,5.9,Higher education,Self-Employed,39300.0,5,8.4,Past Due,0
+Female,Business,70600.0,4.6,Higher education,Employed,1400.0,0,5.8,No Past Due,1
+Male,Salary,27700.0,6.5,Secondary / secondary special,Employed,1800.0,1,13.0,Past Due,0
+Female,Self-Employed,124000.0,0.7,Lower secondary,Student,500.0,0,10.0,No Past Due,1
+Female,Business,56100.0,0.0,Secondary / secondary special,Unemployed,1700.0,1,2.0,No Past Due,0
+Female,Salary,73100.0,2.0,Incomplete higher,Employed,3500.0,1,4.9,No Past Due,1
+Male,Self-Employed,34700.0,16.9,Lower secondary,Employed,52600.0,1,21.2,No Past Due,1
+Female,Business,99500.0,8.6,Secondary / secondary special,Employed,16500.0,0,16.9,Past Due,1
+Female,Self-Employed,42600.0,21.6,Higher education,Employed,22600.0,1,25.0,No Past Due,1
+Female,Salary,57100.0,0.2,Secondary / secondary special,Employed,22500.0,3,9.1,No Past Due,1
+Male,Salary,29300.0,2.0,Secondary / secondary special,Pensioner,11500.0,1,3.5,No Past Due,1
+Male,Salary,28300.0,1.3,Higher education,Employed,24000.0,1,10.8,Past Due,0
+Male,Commercial,71600.0,0.0,Higher education,Unemployed,13600.0,1,6.0,No Past Due,1
+Male,Salary,38400.0,1.7,Lower secondary,Employed,5700.0,3,8.6,No Past Due,1
+Female,Self-Employed,30700.0,6.8,Higher education,Self-Employed,12400.0,4,11.1,No Past Due,1
+Male,Salary,34400.0,1.6,Secondary / secondary special,Self-Employed,11400.0,2,9.6,No Past Due,1
+Female,Salary,72000.0,4.3,Higher education,Employed,26000.0,4,6.8,No Past Due,1
+Male,Pensioner,34700.0,13.1,Lower secondary,Employed,60000.0,2,14.5,No Past Due,0
+Male,Business,45900.0,7.1,Secondary / secondary special,Self-Employed,7900.0,1,11.7,No Past Due,1
+Female,Salary,49400.0,3.0,Academic degree,Employed,21600.0,2,11.7,No Past Due,1
+Female,Salary,18000.0,2.8,Secondary / secondary special,Employed,1600.0,1,10.6,No Past Due,1
+Female,Salary,21800.0,3.6,Higher education,Employed,22500.0,0,9.3,No Past Due,1
+Female,Self-Employed,59000.0,1.2,Secondary / secondary special,Student,7000.0,1,7.3,No Past Due,1
+Female,Business,32700.0,6.0,Secondary / secondary special,Employed,600.0,5,8.2,Past Due,0
+Male,Salary,87700.0,0.0,Secondary / secondary special,Unemployed,6800.0,1,8.6,Past Due,0
+Female,Salary,83400.0,11.5,Higher education,Employed,14100.0,2,19.6,No Past Due,1
+Female,Salary,72800.0,8.5,Secondary / secondary special,Self-Employed,1900.0,2,15.4,No Past Due,1
+Female,Pensioner,133400.0,5.7,Secondary / secondary special,Employed,38700.0,3,10.9,No Past Due,1
+Male,Commercial,46800.0,2.7,Higher education,Pensioner,1200.0,3,12.4,No Past Due,1
+Female,Salary,70000.0,1.4,Incomplete higher,Employed,39900.0,1,10.3,No Past Due,1
+Male,Business,35500.0,9.0,Secondary / secondary special,Self-Employed,18400.0,3,15.8,No Past Due,1
+Male,Salary,188900.0,4.0,Secondary / secondary special,Self-Employed,6000.0,1,8.3,No Past Due,1
+Male,Salary,145900.0,1.5,Secondary / secondary special,Employed,7400.0,3,8.1,Past Due,0
+Male,Business,49300.0,1.3,Secondary / secondary special,Employed,20300.0,5,7.5,No Past Due,0
+Female,Pensioner,60600.0,1.1,Higher education,Employed,13800.0,2,5.6,No Past Due,1
+Female,Commercial,103500.0,9.0,Higher education,Employed,16700.0,1,12.8,No Past Due,1
+Female,Self-Employed,45200.0,0.0,Higher education,Unemployed,7400.0,0,4.7,No Past Due,1
+Male,Salary,34200.0,4.5,Secondary / secondary special,Employed,10000.0,1,10.7,No Past Due,1
+Male,Business,79300.0,3.6,Higher education,Employed,68900.0,3,8.5,No Past Due,1
+Male,Salary,51200.0,5.2,Higher education,Self-Employed,3600.0,4,8.6,No Past Due,1
+Female,Self-Employed,54200.0,12.6,Higher education,Employed,8100.0,1,20.4,No Past Due,1
+Male,Salary,31000.0,12.1,Higher education,Employed,5200.0,4,17.9,Past Due,0
+Female,Business,19100.0,3.6,Higher education,Employed,21700.0,2,5.2,No Past Due,0
+Female,Salary,55800.0,0.1,Higher education,Pensioner,21700.0,0,4.4,No Past Due,1
+Male,Salary,80600.0,0.0,Secondary / secondary special,Unemployed,5200.0,3,9.0,No Past Due,0
+Female,Pensioner,43300.0,0.0,Lower secondary,Unemployed,1300.0,0,7.8,No Past Due,0
+Female,Salary,108000.0,4.9,Higher education,Employed,200.0,3,8.8,No Past Due,1
+Female,Self-Employed,33300.0,6.3,Higher education,Self-Employed,8400.0,2,15.7,Past Due,0
+Female,Salary,27400.0,1.0,Secondary / secondary special,Employed,7900.0,5,2.7,Past Due,0
+Male,Salary,47200.0,6.2,Higher education,Employed,66800.0,4,15.9,Past Due,0
+Male,Salary,46800.0,1.2,Higher education,Employed,9500.0,2,4.4,No Past Due,1
+Female,Salary,74900.0,8.3,Secondary / secondary special,Employed,4400.0,3,9.4,Past Due,0
+Female,Pensioner,32000.0,2.5,Secondary / secondary special,Employed,33300.0,1,7.4,No Past Due,0
+Male,Salary,104000.0,7.4,Higher education,Employed,10100.0,2,11.6,No Past Due,1
+Female,Commercial,144600.0,0.3,Higher education,Employed,13700.0,1,6.2,No Past Due,1
+Female,Self-Employed,48000.0,3.1,Higher education,Employed,1500.0,5,11.3,Past Due,0
+Female,Salary,97500.0,7.3,Secondary / secondary special,Self-Employed,7200.0,1,15.9,No Past Due,1
+Male,Self-Employed,27400.0,1.5,Higher education,Employed,43300.0,1,6.1,No Past Due,0
+Female,Self-Employed,88600.0,9.5,Secondary / secondary special,Self-Employed,13400.0,1,14.4,No Past Due,1
+Female,Business,87200.0,6.0,Secondary / secondary special,Employed,6300.0,1,8.3,No Past Due,1
+Male,Salary,78800.0,0.0,Secondary / secondary special,Unemployed,14700.0,0,1.4,No Past Due,0
+Male,Salary,48600.0,2.6,Secondary / secondary special,Employed,36200.0,2,9.4,Past Due,0
+Female,Pensioner,18000.0,4.0,Secondary / secondary special,Employed,4800.0,1,5.6,No Past Due,1
+Male,Commercial,34400.0,5.5,Secondary / secondary special,Employed,10600.0,3,13.1,No Past Due,1
+Female,Pensioner,34700.0,3.8,Secondary / secondary special,Self-Employed,47800.0,2,9.7,No Past Due,0
+Female,Salary,28600.0,0.0,Secondary / secondary special,Unemployed,2800.0,2,2.8,No Past Due,0
+Male,Business,52400.0,3.4,Higher education,Employed,19100.0,2,9.3,No Past Due,1
+Female,Self-Employed,38900.0,1.4,Secondary / secondary special,Employed,14300.0,1,4.0,No Past Due,1
+Male,Self-Employed,31100.0,0.0,Secondary / secondary special,Unemployed,17100.0,0,4.9,No Past Due,0
+Female,Salary,27400.0,0.0,Higher education,Self-Employed,6500.0,1,8.2,No Past Due,1
+Male,Self-Employed,33100.0,2.1,Secondary / secondary special,Employed,5700.0,2,7.3,No Past Due,1
+Female,Salary,90800.0,8.3,Higher education,Employed,17300.0,0,10.6,No Past Due,1
+Male,Salary,34100.0,9.5,Secondary / secondary special,Employed,3600.0,4,17.0,No Past Due,1
+Male,Pensioner,36900.0,1.4,Secondary / secondary special,Self-Employed,8200.0,1,4.1,No Past Due,1
+Female,Salary,38100.0,19.2,Higher education,Employed,3100.0,3,26.8,Past Due,1
+Male,Salary,59100.0,0.6,Higher education,Student,100.0,3,5.9,No Past Due,1
+Female,Salary,63000.0,14.9,Incomplete higher,Employed,52600.0,1,20.0,No Past Due,1
+Male,Commercial,18000.0,7.4,Higher education,Employed,8500.0,1,16.1,No Past Due,1
+Female,Self-Employed,86000.0,7.7,Lower secondary,Employed,52300.0,1,15.1,No Past Due,1
+Male,Salary,108000.0,0.5,Secondary / secondary special,Pensioner,2300.0,3,1.8,Past Due,0
+Female,Pensioner,27500.0,0.0,Secondary / secondary special,Unemployed,13300.0,1,3.7,No Past Due,0
+Male,Pensioner,28700.0,0.1,Secondary / secondary special,Employed,3400.0,2,8.9,No Past Due,1
+Male,Salary,38300.0,7.6,Secondary / secondary special,Self-Employed,23400.0,0,8.8,No Past Due,1
+Male,Business,32300.0,2.5,Higher education,Employed,23000.0,1,8.4,No Past Due,1
+Male,Business,55400.0,9.3,Higher education,Employed,1800.0,3,16.9,Past Due,1
+Female,Business,18000.0,2.5,Secondary / secondary special,Employed,36500.0,2,9.1,No Past Due,0
+Male,Salary,26500.0,10.3,Lower secondary,Employed,3200.0,3,18.1,No Past Due,1
+Female,Pensioner,114300.0,0.8,Higher education,Employed,14200.0,2,8.3,No Past Due,1
+Male,Self-Employed,29400.0,1.1,Secondary / secondary special,Pensioner,63600.0,1,8.3,No Past Due,0
+Male,Salary,97100.0,2.5,Secondary / secondary special,Employed,32100.0,1,10.9,Past Due,0
+Female,Salary,59600.0,3.2,Secondary / secondary special,Pensioner,47000.0,2,10.0,No Past Due,1
+Female,Salary,18100.0,2.6,Secondary / secondary special,Employed,6300.0,1,7.2,No Past Due,1
+Male,Salary,69500.0,8.7,Secondary / secondary special,Self-Employed,1700.0,2,13.9,No Past Due,1
+Male,Business,45900.0,0.6,Higher education,Employed,3100.0,1,8.1,No Past Due,1
+Male,Salary,38200.0,2.6,Secondary / secondary special,Employed,10400.0,5,11.5,No Past Due,0
+Female,Salary,56100.0,10.9,Secondary / secondary special,Employed,23600.0,1,14.3,No Past Due,1
+Female,Self-Employed,63600.0,0.4,Academic degree,Employed,2400.0,2,4.5,No Past Due,1
+Male,Salary,72300.0,17.1,Higher education,Self-Employed,16200.0,5,26.5,No Past Due,1
+Female,Commercial,93700.0,25.7,Lower secondary,Employed,5900.0,2,31.9,No Past Due,1
+Female,Salary,61400.0,0.6,Secondary / secondary special,Self-Employed,6300.0,0,3.2,Past Due,0
+Female,Salary,23000.0,2.1,Secondary / secondary special,Employed,16300.0,3,9.1,No Past Due,0
+Female,Salary,37800.0,2.8,Higher education,Employed,9400.0,2,12.7,No Past Due,1
+Male,Salary,247400.0,9.0,Secondary / secondary special,Employed,25100.0,1,17.4,No Past Due,1
+Male,Salary,73000.0,5.4,Secondary / secondary special,Pensioner,2500.0,0,13.1,No Past Due,1
+Male,Business,180400.0,6.2,Higher education,Self-Employed,23400.0,1,9.1,No Past Due,1
+Male,Commercial,105600.0,8.5,Higher education,Employed,1000.0,3,17.4,Past Due,1
+Female,Salary,56000.0,0.8,Secondary / secondary special,Employed,3200.0,3,6.5,No Past Due,1
+Female,Business,57900.0,10.7,Secondary / secondary special,Employed,16000.0,2,19.7,No Past Due,1
+Male,Business,48000.0,2.3,Secondary / secondary special,Student,29000.0,0,6.3,No Past Due,1
+Male,Pensioner,18800.0,5.2,Secondary / secondary special,Self-Employed,4400.0,2,6.8,No Past Due,1
+Male,Salary,49500.0,13.2,Secondary / secondary special,Employed,5900.0,1,18.5,No Past Due,1
+Female,Salary,95400.0,7.2,Secondary / secondary special,Employed,11600.0,3,10.6,No Past Due,1
+Male,Salary,35200.0,1.4,Secondary / secondary special,Employed,3600.0,0,8.8,No Past Due,1
+Female,Business,61500.0,3.4,Lower secondary,Student,25000.0,1,13.0,No Past Due,1
+Male,Pensioner,78300.0,4.1,Higher education,Employed,22300.0,3,11.3,No Past Due,1
+Male,Salary,29700.0,0.3,Higher education,Self-Employed,2400.0,2,9.3,No Past Due,1
+Female,Salary,38200.0,18.6,Secondary / secondary special,Employed,9300.0,2,23.7,No Past Due,1
+Female,Pensioner,28000.0,0.8,Secondary / secondary special,Self-Employed,22400.0,2,8.7,No Past Due,0
+Male,Pensioner,31200.0,7.2,Secondary / secondary special,Self-Employed,6200.0,1,15.8,No Past Due,1
+Female,Commercial,24100.0,4.2,Secondary / secondary special,Self-Employed,15000.0,1,11.6,No Past Due,1
+Female,Business,29900.0,0.2,Secondary / secondary special,Self-Employed,800.0,2,5.8,No Past Due,1
+Female,Salary,107000.0,15.5,Higher education,Pensioner,14100.0,1,22.1,No Past Due,1
+Male,Self-Employed,29600.0,11.5,Higher education,Employed,2500.0,4,18.8,No Past Due,1
+Female,Business,52600.0,4.5,Higher education,Employed,26600.0,3,7.8,No Past Due,1
+Female,Salary,37200.0,1.6,Secondary / secondary special,Employed,6600.0,2,9.9,No Past Due,1
+Female,Self-Employed,93700.0,0.8,Incomplete higher,Student,5000.0,4,10.4,No Past Due,1
+Male,Business,100800.0,2.7,Secondary / secondary special,Employed,27600.0,3,7.9,No Past Due,1
+Male,Salary,78800.0,1.8,Secondary / secondary special,Self-Employed,800.0,2,9.1,Past Due,0
+Male,Business,58000.0,4.2,Secondary / secondary special,Self-Employed,7600.0,3,11.8,No Past Due,1
+Female,Self-Employed,43200.0,20.4,Higher education,Employed,6900.0,2,27.4,No Past Due,1
+Male,Commercial,25400.0,5.1,Academic degree,Employed,5000.0,3,11.0,No Past Due,1
+Female,Salary,142800.0,13.2,Secondary / secondary special,Employed,36400.0,2,22.1,No Past Due,1
+Female,Salary,32300.0,6.3,Incomplete higher,Employed,20900.0,3,11.3,No Past Due,1
+Male,Self-Employed,70600.0,3.9,Higher education,Employed,1000.0,1,5.4,No Past Due,1
+Female,Salary,87800.0,11.6,Secondary / secondary special,Employed,18800.0,1,20.2,No Past Due,1
+Male,Business,36100.0,0.0,Secondary / secondary special,Unemployed,11200.0,6,7.1,No Past Due,0
+Female,Business,86800.0,1.3,Secondary / secondary special,Student,34700.0,0,9.9,No Past Due,1
+Male,Salary,74600.0,2.1,Lower secondary,Employed,5600.0,1,4.3,No Past Due,1
+Female,Self-Employed,126800.0,0.8,Secondary / secondary special,Employed,12800.0,3,2.1,No Past Due,1
+Female,Self-Employed,37900.0,11.6,Higher education,Employed,10400.0,1,21.0,No Past Due,1
+Female,Salary,24200.0,5.3,Secondary / secondary special,Self-Employed,10100.0,1,7.6,No Past Due,1
+Female,Commercial,37100.0,0.0,Higher education,Unemployed,9100.0,1,8.3,No Past Due,1
+Female,Pensioner,55000.0,16.7,Secondary / secondary special,Employed,3500.0,0,25.1,No Past Due,1
+Female,Business,50600.0,0.3,Higher education,Employed,21100.0,1,7.7,No Past Due,1
+Female,Business,39500.0,4.2,Higher education,Self-Employed,9000.0,2,6.4,No Past Due,1
+Female,Self-Employed,18000.0,2.8,Higher education,Self-Employed,47700.0,1,9.8,No Past Due,0
+Male,Commercial,63500.0,5.9,Incomplete higher,Employed,4500.0,2,14.9,Past Due,0
+Female,Business,145000.0,9.5,Secondary / secondary special,Self-Employed,17200.0,0,14.3,Past Due,1
+Female,Business,63300.0,2.0,Higher education,Employed,42400.0,1,6.7,No Past Due,1
+Female,Pensioner,68500.0,4.9,Secondary / secondary special,Employed,16300.0,2,9.9,No Past Due,1
+Male,Salary,67200.0,7.4,Secondary / secondary special,Self-Employed,30800.0,0,9.1,No Past Due,1
+Female,Pensioner,61000.0,0.0,Higher education,Unemployed,26400.0,1,9.0,No Past Due,1
+Male,Salary,81800.0,10.1,Secondary / secondary special,Employed,6700.0,4,18.9,No Past Due,1
+Female,Salary,60900.0,5.6,Higher education,Pensioner,13700.0,0,15.6,No Past Due,1
+Male,Salary,41300.0,17.9,Academic degree,Employed,2500.0,1,24.2,Past Due,1
+Female,Commercial,31600.0,2.5,Secondary / secondary special,Self-Employed,11500.0,1,10.3,No Past Due,1
+Female,Pensioner,42700.0,0.7,Higher education,Employed,3900.0,1,3.5,No Past Due,1
+Male,Business,58300.0,4.2,Secondary / secondary special,Pensioner,20400.0,0,11.2,No Past Due,1
+Female,Business,41200.0,0.5,Secondary / secondary special,Pensioner,11300.0,2,7.3,Past Due,0
+Male,Self-Employed,58300.0,20.9,Secondary / secondary special,Employed,7900.0,3,30.0,No Past Due,1
+Female,Commercial,,0.2,Lower secondary,Pensioner,4700.0,2,8.7,No Past Due,1
+Female,Self-Employed,77500.0,0.0,Incomplete higher,Unemployed,99700.0,1,9.4,No Past Due,0
+Female,Salary,99300.0,4.5,Incomplete higher,Self-Employed,1100.0,3,13.3,Past Due,0
+Female,Salary,51200.0,2.8,Academic degree,Employed,700.0,4,11.6,No Past Due,1
+Female,Business,23900.0,0.0,Secondary / secondary special,Unemployed,3700.0,0,1.6,Past Due,0
+Male,Business,40500.0,0.0,Secondary / secondary special,Unemployed,53100.0,1,8.6,No Past Due,0
+Male,Salary,50200.0,5.3,Higher education,Employed,58100.0,3,11.8,No Past Due,1
+Female,Salary,18000.0,2.0,Secondary / secondary special,Pensioner,16000.0,2,6.4,No Past Due,0
+Female,Pensioner,105200.0,14.5,Secondary / secondary special,Employed,31800.0,3,16.0,No Past Due,1
+Female,Salary,53000.0,2.2,Secondary / secondary special,Employed,3600.0,0,9.3,No Past Due,1
+Female,Business,60500.0,3.6,Higher education,Employed,53700.0,3,7.6,Past Due,0
+Male,Commercial,103900.0,4.7,Higher education,Employed,2300.0,2,9.9,No Past Due,1
+Female,Salary,34700.0,0.6,Secondary / secondary special,Self-Employed,1600.0,3,7.7,No Past Due,1
+Male,Salary,67200.0,16.1,Secondary / secondary special,Employed,1800.0,2,25.3,No Past Due,1
+Female,Business,46100.0,2.8,Higher education,Student,12800.0,1,11.2,No Past Due,1
+Male,Pensioner,44300.0,0.5,Higher education,Employed,22800.0,0,5.6,No Past Due,1
+Male,Self-Employed,32100.0,2.9,Secondary / secondary special,Employed,6900.0,1,7.4,No Past Due,1
+Male,Commercial,122500.0,5.5,Higher education,Employed,57200.0,4,8.7,No Past Due,1
+Male,Salary,39900.0,4.3,Secondary / secondary special,Employed,8500.0,2,8.7,No Past Due,1
+Female,Self-Employed,72000.0,7.1,Secondary / secondary special,Pensioner,2400.0,5,9.1,Past Due,0
+Male,Business,18000.0,0.3,Higher education,Self-Employed,9400.0,3,10.0,No Past Due,1
+Male,Pensioner,93800.0,0.0,Higher education,Unemployed,17000.0,1,6.2,Past Due,0
+Male,Salary,87400.0,10.3,Secondary / secondary special,Employed,26800.0,1,12.5,No Past Due,1
+Male,Pensioner,51700.0,0.5,Higher education,Employed,9200.0,3,4.7,No Past Due,1
+Male,Self-Employed,43300.0,11.6,Higher education,Employed,13500.0,3,17.5,No Past Due,1
+Male,Salary,61100.0,0.6,Higher education,Employed,4700.0,3,6.4,No Past Due,1
+Female,Salary,172600.0,10.8,Higher education,Employed,15600.0,1,12.1,Past Due,1
+Female,Pensioner,18600.0,2.7,Higher education,Self-Employed,64000.0,1,12.3,No Past Due,0
+Female,Salary,75400.0,5.7,Secondary / secondary special,Employed,800.0,3,9.2,No Past Due,1
+Male,Salary,29700.0,1.0,Secondary / secondary special,Self-Employed,32600.0,0,2.1,Past Due,0
+Male,Salary,48500.0,0.4,Secondary / secondary special,Employed,12400.0,1,2.1,No Past Due,1
+Female,Pensioner,42800.0,1.5,Secondary / secondary special,Employed,4400.0,3,7.7,No Past Due,1

@@ -1,0 +1,143 @@
+{% extends 'base.html' %}
+
+{% block title %}Dashboard - Credit Card Approval System{% endblock %}
+
+{% block content %}
+<!-- Minimal Clean Hero -->
+<section class="hero-wrapper py-5">
+    <div class="container py-3">
+        <div class="row align-items-center justify-content-between g-4">
+            <div class="col-lg-7 text-center text-lg-start">
+                <span class="badge bg-primary text-white px-3 py-2 rounded-pill fw-semibold mb-3">
+                    <i class="fa-solid fa-sparkles me-1"></i> AI Screening Engine
+                </span>
+                <h1 class="display-5 fw-bold text-dark mb-3">
+                    Smart Credit Card Approval System
+                </h1>
+                <p class="lead text-muted mb-4 fs-6">
+                    Evaluate applicant creditworthiness in real time. Get instant approval probability and clear risk decisions powered by trained machine learning.
+                </p>
+                <div class="d-flex flex-wrap gap-3 justify-content-center justify-content-lg-start">
+                    <a href="{{ url_for('predict_page') }}" class="btn btn-primary-custom btn-lg px-4 py-2 rounded-pill">
+                        <i class="fa-solid fa-arrow-right-to-bracket me-2"></i> Start Screening
+                    </a>
+                    <a href="{{ url_for('history') }}" class="btn btn-outline-custom btn-lg px-4 py-2 rounded-pill">
+                        <i class="fa-solid fa-clock-rotate-left me-2"></i> View History
+                    </a>
+                </div>
+            </div>
+            
+            <div class="col-lg-4 d-none d-lg-block">
+                <div class="card-clean p-4 text-center">
+                    <div class="icon-box icon-box-primary mx-auto mb-3">
+                        <i class="fa-solid fa-robot"></i>
+                    </div>
+                    <h6 class="fw-bold mb-1">Active Model</h6>
+                    <p class="text-primary fw-bold fs-5 mb-2">{{ stats.model_name if stats.model_name else 'Trained Model' }}</p>
+                    <span class="badge bg-success-subtle text-success px-3 py-1 rounded-pill">
+                        <i class="fa-solid fa-check-circle me-1"></i> Ready for Inference
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Dashboard Stats -->
+<section class="py-5">
+    <div class="container">
+        <!-- 4 KPI Stat Cards -->
+        <div class="row g-3 mb-5">
+            <div class="col-6 col-lg-3">
+                <div class="kpi-stat-card">
+                    <div class="d-flex justify-content-between align-items-center mb-2">
+                        <span class="text-muted small fw-semibold">Total Screened</span>
+                        <div class="icon-box icon-box-primary" style="width: 36px; height: 36px; font-size: 1rem;">
+                            <i class="fa-solid fa-file-lines"></i>
+                        </div>
+                    </div>
+                    <h3 class="fw-bold text-dark mb-0">{{ stats.total }}</h3>
+                </div>
+            </div>
+
+            <div class="col-6 col-lg-3">
+                <div class="kpi-stat-card">
+                    <div class="d-flex justify-content-between align-items-center mb-2">
+                        <span class="text-muted small fw-semibold">Approved</span>
+                        <div class="icon-box icon-box-success" style="width: 36px; height: 36px; font-size: 1rem;">
+                            <i class="fa-solid fa-check"></i>
+                        </div>
+                    </div>
+                    <h3 class="fw-bold text-success mb-0">{{ stats.approved }}</h3>
+                </div>
+            </div>
+
+            <div class="col-6 col-lg-3">
+                <div class="kpi-stat-card">
+                    <div class="d-flex justify-content-between align-items-center mb-2">
+                        <span class="text-muted small fw-semibold">Rejected</span>
+                        <div class="icon-box icon-box-danger" style="width: 36px; height: 36px; font-size: 1rem;">
+                            <i class="fa-solid fa-xmark"></i>
+                        </div>
+                    </div>
+                    <h3 class="fw-bold text-danger mb-0">{{ stats.rejected }}</h3>
+                </div>
+            </div>
+
+            <div class="col-6 col-lg-3">
+                <div class="kpi-stat-card">
+                    <div class="d-flex justify-content-between align-items-center mb-2">
+                        <span class="text-muted small fw-semibold">Approval Rate</span>
+                        <div class="icon-box icon-box-warning" style="width: 36px; height: 36px; font-size: 1rem;">
+                            <i class="fa-solid fa-percent"></i>
+                        </div>
+                    </div>
+                    <h3 class="fw-bold text-dark mb-0">{{ stats.approval_rate }}%</h3>
+                </div>
+            </div>
+        </div>
+
+        <!-- 3 Simple Steps -->
+        <div class="text-center mb-4">
+            <h4 class="fw-bold text-dark mb-1">How It Works</h4>
+            <p class="text-muted small">Three simple steps to evaluate applicant creditworthiness</p>
+        </div>
+
+        <div class="row g-4 mb-5">
+            <div class="col-md-4">
+                <div class="card-clean p-4 h-100 text-center">
+                    <div class="step-number mb-3">1</div>
+                    <h5 class="fw-bold fs-6 mb-2">Enter Details</h5>
+                    <p class="text-muted small mb-0">Fill in income, employment duration, and existing loan parameters.</p>
+                </div>
+            </div>
+            
+            <div class="col-md-4">
+                <div class="card-clean p-4 h-100 text-center">
+                    <div class="step-number mb-3">2</div>
+                    <h5 class="fw-bold fs-6 mb-2">Instant Analysis</h5>
+                    <p class="text-muted small mb-0">Our pre-trained ML model calculates risk scores and key financial ratios.</p>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card-clean p-4 h-100 text-center">
+                    <div class="step-number mb-3">3</div>
+                    <h5 class="fw-bold fs-6 mb-2">Get Decision</h5>
+                    <p class="text-muted small mb-0">Receive immediate approval status with transparent probability scores.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Call to Action Banner -->
+        <div class="card-clean p-4 p-md-5 text-center bg-primary text-white border-0" style="background: linear-gradient(135deg, #1e40af 0%, #3b82f6 100%);">
+            <h3 class="fw-bold mb-2">Ready to screen an applicant?</h3>
+            <p class="text-white-50 mb-4 mx-auto" style="max-width: 500px;">Quickly check credit eligibility with our simplified screening form.</p>
+            <a href="{{ url_for('predict_page') }}" class="btn btn-light text-primary fw-bold px-4 py-2 rounded-pill shadow-sm">
+                Open Screening Form
+            </a>
+        </div>
+
+    </div>
+</section>
+{% endblock %}

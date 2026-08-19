@@ -1,0 +1,93 @@
+{% extends 'base.html' %}
+
+{% block title %}Application History - Credit Card Approval System{% endblock %}
+
+{% block content %}
+<div class="container py-5">
+    
+    <!-- Title & Search Bar -->
+    <div class="d-flex flex-column flex-md-row justify-content-between align-items-md-center gap-3 mb-4">
+        <div>
+            <h3 class="fw-bold text-dark mb-1">Application History</h3>
+            <p class="text-muted small mb-0">Record of all evaluated credit card screening applications.</p>
+        </div>
+        <div>
+            <form action="{{ url_for('history') }}" method="GET" class="d-flex gap-2">
+                <input type="text" name="q" value="{{ search_query if search_query else '' }}" class="form-control form-control-sm" placeholder="Search history..." style="min-width: 220px;">
+                <button type="submit" class="btn btn-primary-custom btn-sm px-3 rounded-pill">Search</button>
+                {% if search_query %}
+                    <a href="{{ url_for('history') }}" class="btn btn-outline-custom btn-sm rounded-pill">Clear</a>
+                {% endif %}
+            </form>
+        </div>
+    </div>
+
+    <!-- Table Card -->
+    <div class="card-clean overflow-hidden">
+        {% if records %}
+            <div class="table-responsive">
+                <table class="table table-clean">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Date / Time</th>
+                            <th>Applicant</th>
+                            <th>Financials</th>
+                            <th>History</th>
+                            <th>Decision</th>
+                            <th>Probability</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for r in records %}
+                            <tr>
+                                <td class="text-muted fw-bold small">{{ r.id }}</td>
+                                <td class="small text-muted">{{ r.timestamp }}</td>
+                                <td>
+                                    <div class="fw-semibold text-dark">{{ r.gender }}, {{ r.education_level }}</div>
+                                    <div class="small text-muted">{{ r.employment_status }} &bull; {{ r.income_type }}</div>
+                                </td>
+                                <td>
+                                    <div class="fw-semibold text-dark">${{ "{:,.0f}".format(r.annual_income) }}</div>
+                                    <div class="small text-muted">Loan: ${{ "{:,.0f}".format(r.existing_loan_balance) }}</div>
+                                </td>
+                                <td>
+                                    <span class="badge {% if r.payment_status == 'No Past Due' %}badge-approved{% else %}badge-rejected{% endif %}">
+                                        {{ r.payment_status }}
+                                    </span>
+                                </td>
+                                <td>
+                                    {% if r.prediction == 1 %}
+                                        <span class="badge badge-approved px-3 py-1 rounded-pill">
+                                            <i class="fa-solid fa-check me-1"></i> Approved
+                                        </span>
+                                    {% else %}
+                                        <span class="badge badge-rejected px-3 py-1 rounded-pill">
+                                            <i class="fa-solid fa-xmark me-1"></i> Rejected
+                                        </span>
+                                    {% endif %}
+                                </td>
+                                <td class="fw-bold {% if r.prediction == 1 %}text-success{% else %}text-danger{% endif %}">
+                                    {{ "{:.1f}%".format(r.approval_probability * 100) }}
+                                </td>
+                            </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        {% else %}
+            <div class="text-center py-5 text-muted">
+                <div class="icon-box icon-box-primary mx-auto mb-3">
+                    <i class="fa-solid fa-inbox"></i>
+                </div>
+                <h6 class="fw-bold text-dark">No records found</h6>
+                <p class="small text-muted mb-3">Start screening applicants to view decision logs here.</p>
+                <a href="{{ url_for('predict_page') }}" class="btn btn-primary-custom btn-sm px-4 rounded-pill">
+                    Screen Applicant
+                </a>
+            </div>
+        {% endif %}
+    </div>
+
+</div>
+{% endblock %}

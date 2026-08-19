@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Environment variables
+.env
+
+# Models and artifacts (optional, keep default trained ones if tracked or ignore)
+# models/*.pkl
+
+# SQLite Database
+*.db
+predictions.db
+
+# Visualizations generated
+visualizations/*.png
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
